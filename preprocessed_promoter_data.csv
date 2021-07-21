@@ -1,0 +1,2177 @@
+line name,measurement type,Value
+S1.C1.R1.P1,promoter 1,1.0
+S1.C1.R1.P2,promoter 2,1.0
+S1.C1.R1.P3,promoter 3,1.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.06356
+S1.C1.R1.P1,promoter 1,1.0
+S1.C1.R1.P2,promoter 2,13.0
+S1.C1.R1.P3,promoter 3,10.0
+S1.C1.R1.LY,abs @470nm w/DMSO,0.79031
+S1.C1.R1.P1,promoter 1,2.0
+S1.C1.R1.P2,promoter 2,23.0
+S1.C1.R1.P3,promoter 3,17.0
+S1.C1.R1.LY,abs @470nm w/DMSO,0.93044
+S1.C1.R1.P1,promoter 1,2.0
+S1.C1.R1.P2,promoter 2,7.0
+S1.C1.R1.P3,promoter 3,15.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.77051
+S1.C1.R1.P1,promoter 1,3.0
+S1.C1.R1.P2,promoter 2,15.0
+S1.C1.R1.P3,promoter 3,21.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.43224
+S1.C1.R1.P1,promoter 1,3.0
+S1.C1.R1.P2,promoter 2,12.0
+S1.C1.R1.P3,promoter 3,21.0
+S1.C1.R1.LY,abs @470nm w/DMSO,2.72854
+S1.C1.R1.P1,promoter 1,4.0
+S1.C1.R1.P2,promoter 2,4.0
+S1.C1.R1.P3,promoter 3,13.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.41765
+S1.C1.R1.P1,promoter 1,5.0
+S1.C1.R1.P2,promoter 2,8.0
+S1.C1.R1.P3,promoter 3,8.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.7939
+S1.C1.R1.P1,promoter 1,5.0
+S1.C1.R1.P2,promoter 2,22.0
+S1.C1.R1.P3,promoter 3,12.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.93662
+S1.C1.R1.P1,promoter 1,6.0
+S1.C1.R1.P2,promoter 2,18.0
+S1.C1.R1.P3,promoter 3,6.0
+S1.C1.R1.LY,abs @470nm w/DMSO,3.55577
+S1.C1.R1.P1,promoter 1,6.0
+S1.C1.R1.P2,promoter 2,21.0
+S1.C1.R1.P3,promoter 3,6.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.04372
+S1.C1.R1.P1,promoter 1,6.0
+S1.C1.R1.P2,promoter 2,2.0
+S1.C1.R1.P3,promoter 3,20.0
+S1.C1.R1.LY,abs @470nm w/DMSO,3.65709
+S1.C1.R1.P1,promoter 1,7.0
+S1.C1.R1.P2,promoter 2,7.0
+S1.C1.R1.P3,promoter 3,4.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.48731
+S1.C1.R1.P1,promoter 1,8.0
+S1.C1.R1.P2,promoter 2,5.0
+S1.C1.R1.P3,promoter 3,23.0
+S1.C1.R1.LY,abs @470nm w/DMSO,2.14156
+S1.C1.R1.P1,promoter 1,8.0
+S1.C1.R1.P2,promoter 2,13.0
+S1.C1.R1.P3,promoter 3,21.0
+S1.C1.R1.LY,abs @470nm w/DMSO,0.80819
+S1.C1.R1.P1,promoter 1,9.0
+S1.C1.R1.P2,promoter 2,9.0
+S1.C1.R1.P3,promoter 3,15.0
+S1.C1.R1.LY,abs @470nm w/DMSO,3.2793
+S1.C1.R1.P1,promoter 1,9.0
+S1.C1.R1.P2,promoter 2,18.0
+S1.C1.R1.P3,promoter 3,15.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.6185
+S1.C1.R1.P1,promoter 1,9.0
+S1.C1.R1.P2,promoter 2,11.0
+S1.C1.R1.P3,promoter 3,11.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.7454
+S1.C1.R1.P1,promoter 1,10.0
+S1.C1.R1.P2,promoter 2,22.0
+S1.C1.R1.P3,promoter 3,19.0
+S1.C1.R1.LY,abs @470nm w/DMSO,4.29051
+S1.C1.R1.P1,promoter 1,11.0
+S1.C1.R1.P2,promoter 2,14.0
+S1.C1.R1.P3,promoter 3,2.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.55735
+S1.C1.R1.P1,promoter 1,11.0
+S1.C1.R1.P2,promoter 2,4.0
+S1.C1.R1.P3,promoter 3,6.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.19085
+S1.C1.R1.P1,promoter 1,12.0
+S1.C1.R1.P2,promoter 2,12.0
+S1.C1.R1.P3,promoter 3,12.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.2284
+S1.C1.R1.P1,promoter 1,12.0
+S1.C1.R1.P2,promoter 2,3.0
+S1.C1.R1.P3,promoter 3,12.0
+S1.C1.R1.LY,abs @470nm w/DMSO,3.79943
+S1.C1.R1.P1,promoter 1,12.0
+S1.C1.R1.P2,promoter 2,20.0
+S1.C1.R1.P3,promoter 3,14.0
+S1.C1.R1.LY,abs @470nm w/DMSO,0.79646
+S1.C1.R1.P1,promoter 1,13.0
+S1.C1.R1.P2,promoter 2,1.0
+S1.C1.R1.P3,promoter 3,22.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.71017
+S1.C1.R1.P1,promoter 1,14.0
+S1.C1.R1.P2,promoter 2,11.0
+S1.C1.R1.P3,promoter 3,5.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.67082
+S1.C1.R1.P1,promoter 1,14.0
+S1.C1.R1.P2,promoter 2,19.0
+S1.C1.R1.P3,promoter 3,3.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.94217
+S1.C1.R1.P1,promoter 1,15.0
+S1.C1.R1.P2,promoter 2,3.0
+S1.C1.R1.P3,promoter 3,9.0
+S1.C1.R1.LY,abs @470nm w/DMSO,0.65339
+S1.C1.R1.P1,promoter 1,15.0
+S1.C1.R1.P2,promoter 2,24.0
+S1.C1.R1.P3,promoter 3,9.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.76803
+S1.C1.R1.P1,promoter 1,16.0
+S1.C1.R1.P2,promoter 2,16.0
+S1.C1.R1.P3,promoter 3,1.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.16442
+S1.C1.R1.P1,promoter 1,17.0
+S1.C1.R1.P2,promoter 2,20.0
+S1.C1.R1.P3,promoter 3,20.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.82859
+S1.C1.R1.P1,promoter 1,17.0
+S1.C1.R1.P2,promoter 2,10.0
+S1.C1.R1.P3,promoter 3,24.0
+S1.C1.R1.LY,abs @470nm w/DMSO,2.06185
+S1.C1.R1.P1,promoter 1,18.0
+S1.C1.R1.P2,promoter 2,6.0
+S1.C1.R1.P3,promoter 3,18.0
+S1.C1.R1.LY,abs @470nm w/DMSO,2.49538
+S1.C1.R1.P1,promoter 1,18.0
+S1.C1.R1.P2,promoter 2,9.0
+S1.C1.R1.P3,promoter 3,18.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.14597
+S1.C1.R1.P1,promoter 1,18.0
+S1.C1.R1.P2,promoter 2,14.0
+S1.C1.R1.P3,promoter 3,8.0
+S1.C1.R1.LY,abs @470nm w/DMSO,2.48019
+S1.C1.R1.P1,promoter 1,19.0
+S1.C1.R1.P2,promoter 2,19.0
+S1.C1.R1.P3,promoter 3,16.0
+S1.C1.R1.LY,abs @470nm w/DMSO,0.70952
+S1.C1.R1.P1,promoter 1,20.0
+S1.C1.R1.P2,promoter 2,17.0
+S1.C1.R1.P3,promoter 3,11.0
+S1.C1.R1.LY,abs @470nm w/DMSO,2.30347
+S1.C1.R1.P1,promoter 1,20.0
+S1.C1.R1.P2,promoter 2,1.0
+S1.C1.R1.P3,promoter 3,9.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.96797
+S1.C1.R1.P1,promoter 1,21.0
+S1.C1.R1.P2,promoter 2,21.0
+S1.C1.R1.P3,promoter 3,3.0
+S1.C1.R1.LY,abs @470nm w/DMSO,2.35603
+S1.C1.R1.P1,promoter 1,21.0
+S1.C1.R1.P2,promoter 2,6.0
+S1.C1.R1.P3,promoter 3,3.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.7985
+S1.C1.R1.P1,promoter 1,21.0
+S1.C1.R1.P2,promoter 2,23.0
+S1.C1.R1.P3,promoter 3,23.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.12137
+S1.C1.R1.P1,promoter 1,22.0
+S1.C1.R1.P2,promoter 2,10.0
+S1.C1.R1.P3,promoter 3,7.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.41163
+S1.C1.R1.P1,promoter 1,23.0
+S1.C1.R1.P2,promoter 2,2.0
+S1.C1.R1.P3,promoter 3,14.0
+S1.C1.R1.LY,abs @470nm w/DMSO,2.89498
+S1.C1.R1.P1,promoter 1,23.0
+S1.C1.R1.P2,promoter 2,16.0
+S1.C1.R1.P3,promoter 3,18.0
+S1.C1.R1.LY,abs @470nm w/DMSO,1.00186
+S1.C1.R1.P1,promoter 1,24.0
+S1.C1.R1.P2,promoter 2,15.0
+S1.C1.R1.P3,promoter 3,24.0
+S1.C1.R1.LY,abs @470nm w/DMSO,2.87153
+S1.C1.R1.P1,promoter 1,24.0
+S1.C1.R1.P2,promoter 2,8.0
+S1.C1.R1.P3,promoter 3,2.0
+S1.C1.R1.LY,abs @470nm w/DMSO,2.32058
+S2.C1.R1.P1,promoter 1,1.0
+S2.C1.R1.P2,promoter 2,1.0
+S2.C1.R1.P3,promoter 3,1.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.15435
+S2.C1.R1.P1,promoter 1,1.0
+S2.C1.R1.P2,promoter 2,13.0
+S2.C1.R1.P3,promoter 3,10.0
+S2.C1.R1.LY,abs @470nm w/DMSO,0.77193
+S2.C1.R1.P1,promoter 1,2.0
+S2.C1.R1.P2,promoter 2,23.0
+S2.C1.R1.P3,promoter 3,17.0
+S2.C1.R1.LY,abs @470nm w/DMSO,0.95159
+S2.C1.R1.P1,promoter 1,2.0
+S2.C1.R1.P2,promoter 2,7.0
+S2.C1.R1.P3,promoter 3,15.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.81075
+S2.C1.R1.P1,promoter 1,3.0
+S2.C1.R1.P2,promoter 2,15.0
+S2.C1.R1.P3,promoter 3,21.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.35086
+S2.C1.R1.P1,promoter 1,3.0
+S2.C1.R1.P2,promoter 2,12.0
+S2.C1.R1.P3,promoter 3,21.0
+S2.C1.R1.LY,abs @470nm w/DMSO,2.92579
+S2.C1.R1.P1,promoter 1,4.0
+S2.C1.R1.P2,promoter 2,4.0
+S2.C1.R1.P3,promoter 3,13.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.38429
+S2.C1.R1.P1,promoter 1,5.0
+S2.C1.R1.P2,promoter 2,8.0
+S2.C1.R1.P3,promoter 3,8.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.83819
+S2.C1.R1.P1,promoter 1,5.0
+S2.C1.R1.P2,promoter 2,22.0
+S2.C1.R1.P3,promoter 3,12.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.91271
+S2.C1.R1.P1,promoter 1,6.0
+S2.C1.R1.P2,promoter 2,18.0
+S2.C1.R1.P3,promoter 3,6.0
+S2.C1.R1.LY,abs @470nm w/DMSO,3.95086
+S2.C1.R1.P1,promoter 1,6.0
+S2.C1.R1.P2,promoter 2,21.0
+S2.C1.R1.P3,promoter 3,6.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.03114
+S2.C1.R1.P1,promoter 1,6.0
+S2.C1.R1.P2,promoter 2,2.0
+S2.C1.R1.P3,promoter 3,20.0
+S2.C1.R1.LY,abs @470nm w/DMSO,3.61249
+S2.C1.R1.P1,promoter 1,7.0
+S2.C1.R1.P2,promoter 2,7.0
+S2.C1.R1.P3,promoter 3,4.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.48731
+S2.C1.R1.P1,promoter 1,8.0
+S2.C1.R1.P2,promoter 2,5.0
+S2.C1.R1.P3,promoter 3,23.0
+S2.C1.R1.LY,abs @470nm w/DMSO,2.22187
+S2.C1.R1.P1,promoter 1,8.0
+S2.C1.R1.P2,promoter 2,13.0
+S2.C1.R1.P3,promoter 3,21.0
+S2.C1.R1.LY,abs @470nm w/DMSO,0.81829
+S2.C1.R1.P1,promoter 1,9.0
+S2.C1.R1.P2,promoter 2,9.0
+S2.C1.R1.P3,promoter 3,15.0
+S2.C1.R1.LY,abs @470nm w/DMSO,3.51925
+S2.C1.R1.P1,promoter 1,9.0
+S2.C1.R1.P2,promoter 2,18.0
+S2.C1.R1.P3,promoter 3,15.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.69378
+S2.C1.R1.P1,promoter 1,9.0
+S2.C1.R1.P2,promoter 2,11.0
+S2.C1.R1.P3,promoter 3,11.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.85449
+S2.C1.R1.P1,promoter 1,10.0
+S2.C1.R1.P2,promoter 2,22.0
+S2.C1.R1.P3,promoter 3,19.0
+S2.C1.R1.LY,abs @470nm w/DMSO,4.29051
+S2.C1.R1.P1,promoter 1,11.0
+S2.C1.R1.P2,promoter 2,14.0
+S2.C1.R1.P3,promoter 3,2.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.55735
+S2.C1.R1.P1,promoter 1,11.0
+S2.C1.R1.P2,promoter 2,4.0
+S2.C1.R1.P3,promoter 3,6.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.13732
+S2.C1.R1.P1,promoter 1,12.0
+S2.C1.R1.P2,promoter 2,12.0
+S2.C1.R1.P3,promoter 3,12.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.15939
+S2.C1.R1.P1,promoter 1,12.0
+S2.C1.R1.P2,promoter 2,3.0
+S2.C1.R1.P3,promoter 3,12.0
+S2.C1.R1.LY,abs @470nm w/DMSO,3.7531
+S2.C1.R1.P1,promoter 1,12.0
+S2.C1.R1.P2,promoter 2,20.0
+S2.C1.R1.P3,promoter 3,14.0
+S2.C1.R1.LY,abs @470nm w/DMSO,0.75941
+S2.C1.R1.P1,promoter 1,13.0
+S2.C1.R1.P2,promoter 2,1.0
+S2.C1.R1.P3,promoter 3,22.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.87907
+S2.C1.R1.P1,promoter 1,14.0
+S2.C1.R1.P2,promoter 2,11.0
+S2.C1.R1.P3,promoter 3,5.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.55559
+S2.C1.R1.P1,promoter 1,14.0
+S2.C1.R1.P2,promoter 2,19.0
+S2.C1.R1.P3,promoter 3,3.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.96645
+S2.C1.R1.P1,promoter 1,15.0
+S2.C1.R1.P2,promoter 2,3.0
+S2.C1.R1.P3,promoter 3,9.0
+S2.C1.R1.LY,abs @470nm w/DMSO,0.66914
+S2.C1.R1.P1,promoter 1,15.0
+S2.C1.R1.P2,promoter 2,24.0
+S2.C1.R1.P3,promoter 3,9.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.83194
+S2.C1.R1.P1,promoter 1,16.0
+S2.C1.R1.P2,promoter 2,16.0
+S2.C1.R1.P3,promoter 3,1.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.05857
+S2.C1.R1.P1,promoter 1,17.0
+S2.C1.R1.P2,promoter 2,20.0
+S2.C1.R1.P3,promoter 3,20.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.82859
+S2.C1.R1.P1,promoter 1,17.0
+S2.C1.R1.P2,promoter 2,10.0
+S2.C1.R1.P3,promoter 3,24.0
+S2.C1.R1.LY,abs @470nm w/DMSO,2.26803
+S2.C1.R1.P1,promoter 1,18.0
+S2.C1.R1.P2,promoter 2,6.0
+S2.C1.R1.P3,promoter 3,18.0
+S2.C1.R1.LY,abs @470nm w/DMSO,2.27357
+S2.C1.R1.P1,promoter 1,18.0
+S2.C1.R1.P2,promoter 2,9.0
+S2.C1.R1.P3,promoter 3,18.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.06693
+S2.C1.R1.P1,promoter 1,18.0
+S2.C1.R1.P2,promoter 2,14.0
+S2.C1.R1.P3,promoter 3,8.0
+S2.C1.R1.LY,abs @470nm w/DMSO,2.36348
+S2.C1.R1.P1,promoter 1,19.0
+S2.C1.R1.P2,promoter 2,19.0
+S2.C1.R1.P3,promoter 3,16.0
+S2.C1.R1.LY,abs @470nm w/DMSO,0.75387
+S2.C1.R1.P1,promoter 1,20.0
+S2.C1.R1.P2,promoter 2,17.0
+S2.C1.R1.P3,promoter 3,11.0
+S2.C1.R1.LY,abs @470nm w/DMSO,2.41187
+S2.C1.R1.P1,promoter 1,20.0
+S2.C1.R1.P2,promoter 2,1.0
+S2.C1.R1.P3,promoter 3,9.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.85487
+S2.C1.R1.P1,promoter 1,21.0
+S2.C1.R1.P2,promoter 2,21.0
+S2.C1.R1.P3,promoter 3,3.0
+S2.C1.R1.LY,abs @470nm w/DMSO,2.29856
+S2.C1.R1.P1,promoter 1,21.0
+S2.C1.R1.P2,promoter 2,6.0
+S2.C1.R1.P3,promoter 3,3.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.8643
+S2.C1.R1.P1,promoter 1,21.0
+S2.C1.R1.P2,promoter 2,23.0
+S2.C1.R1.P3,promoter 3,23.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.18811
+S2.C1.R1.P1,promoter 1,22.0
+S2.C1.R1.P2,promoter 2,10.0
+S2.C1.R1.P3,promoter 3,7.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.28615
+S2.C1.R1.P1,promoter 1,23.0
+S2.C1.R1.P2,promoter 2,2.0
+S2.C1.R1.P3,promoter 3,14.0
+S2.C1.R1.LY,abs @470nm w/DMSO,2.83065
+S2.C1.R1.P1,promoter 1,23.0
+S2.C1.R1.P2,promoter 2,16.0
+S2.C1.R1.P3,promoter 3,18.0
+S2.C1.R1.LY,abs @470nm w/DMSO,1.01423
+S2.C1.R1.P1,promoter 1,24.0
+S2.C1.R1.P2,promoter 2,15.0
+S2.C1.R1.P3,promoter 3,24.0
+S2.C1.R1.LY,abs @470nm w/DMSO,2.58115
+S2.C1.R1.P1,promoter 1,24.0
+S2.C1.R1.P2,promoter 2,8.0
+S2.C1.R1.P3,promoter 3,2.0
+S3.C1.R1.LY,abs @470nm w/DMSO,2.06274
+S3.C1.R1.P1,promoter 1,1.0
+S3.C1.R1.P2,promoter 2,1.0
+S3.C1.R1.P3,promoter 3,1.0
+S3.C1.R1.LY,abs @470nm w/DMSO,1.11544
+S3.C1.R1.P1,promoter 1,1.0
+S3.C1.R1.P2,promoter 2,13.0
+S3.C1.R1.P3,promoter 3,10.0
+S3.C1.R1.LY,abs @470nm w/DMSO,0.75355
+S3.C1.R1.P1,promoter 1,2.0
+S3.C1.R1.P2,promoter 2,23.0
+S3.C1.R1.P3,promoter 3,17.0
+S3.C1.R1.LY,abs @470nm w/DMSO,0.95159
+S3.C1.R1.P1,promoter 1,2.0
+S3.C1.R1.P2,promoter 2,7.0
+S3.C1.R1.P3,promoter 3,15.0
+S3.C1.R1.LY,abs @470nm w/DMSO,1.71016
+S3.C1.R1.P1,promoter 1,3.0
+S3.C1.R1.P2,promoter 2,15.0
+S3.C1.R1.P3,promoter 3,21.0
+S3.C1.R1.LY,abs @470nm w/DMSO,1.33459
+S3.C1.R1.P1,promoter 1,3.0
+S3.C1.R1.P2,promoter 2,12.0
+S3.C1.R1.P3,promoter 3,21.0
+S3.C1.R1.LY,abs @470nm w/DMSO,2.92579
+S3.C1.R1.P1,promoter 1,4.0
+S3.C1.R1.P2,promoter 2,4.0
+S3.C1.R1.P3,promoter 3,13.0
+S3.C1.R1.LY,abs @470nm w/DMSO,1.35093
+S3.C1.R1.P1,promoter 1,5.0
+S3.C1.R1.P2,promoter 2,8.0
+S3.C1.R1.P3,promoter 3,8.0
+S3.C1.R1.LY,abs @470nm w/DMSO,1.94892
+S3.C1.R1.P1,promoter 1,5.0
+S3.C1.R1.P2,promoter 2,22.0
+S3.C1.R1.P3,promoter 3,12.0
+S3.C1.R1.LY,abs @470nm w/DMSO,2.08008
+S3.C1.R1.P1,promoter 1,6.0
+S3.C1.R1.P2,promoter 2,18.0
+S3.C1.R1.P3,promoter 3,6.0
+S3.C1.R1.LY,abs @470nm w/DMSO,3.64357
+S3.C1.R1.P1,promoter 1,6.0
+S3.C1.R1.P2,promoter 2,21.0
+S3.C1.R1.P3,promoter 3,6.0
+S3.C1.R1.LY,abs @470nm w/DMSO,1.04372
+S3.C1.R1.P1,promoter 1,6.0
+S3.C1.R1.P2,promoter 2,2.0
+S3.C1.R1.P3,promoter 3,20.0
+S3.C1.R1.LY,abs @470nm w/DMSO,3.96928
+S3.C1.R1.P1,promoter 1,7.0
+S3.C1.R1.P2,promoter 2,7.0
+S3.C1.R1.P3,promoter 3,4.0
+S3.C1.R1.LY,abs @470nm w/DMSO,1.54107
+S3.C1.R1.P1,promoter 1,8.0
+S3.C1.R1.P2,promoter 2,5.0
+S3.C1.R1.P3,promoter 3,23.0
+S3.C1.R1.LY,abs @470nm w/DMSO,2.24864
+S3.C1.R1.P1,promoter 1,8.0
+S3.C1.R1.P2,promoter 2,13.0
+S3.C1.R1.P3,promoter 3,21.0
+S3.C1.R1.LY,abs @470nm w/DMSO,0.87891
+S3.C1.R1.P1,promoter 1,9.0
+S3.C1.R1.P2,promoter 2,9.0
+S3.C1.R1.P3,promoter 3,15.0
+S3.C1.R1.LY,abs @470nm w/DMSO,3.51925
+S3.C1.R1.P1,promoter 1,9.0
+S3.C1.R1.P2,promoter 2,18.0
+S3.C1.R1.P3,promoter 3,15.0
+S3.C1.R1.LY,abs @470nm w/DMSO,1.50558
+S3.C1.R1.P1,promoter 1,9.0
+S3.C1.R1.P2,promoter 2,11.0
+S3.C1.R1.P3,promoter 3,11.0
+S3.C1.R1.LY,abs @470nm w/DMSO,1.87631
+S3.C1.R1.P1,promoter 1,10.0
+S3.C1.R1.P2,promoter 2,22.0
+S3.C1.R1.P3,promoter 3,19.0
+S3.C1.R1.LY,abs @470nm w/DMSO,3.99118
+S3.C1.R1.P1,promoter 1,11.0
+S3.C1.R1.P2,promoter 2,14.0
+S3.C1.R1.P3,promoter 3,2.0
+S3.C1.R1.LY,abs @470nm w/DMSO,1.50365
+S3.C1.R1.P1,promoter 1,11.0
+S3.C1.R1.P2,promoter 2,4.0
+S3.C1.R1.P3,promoter 3,6.0
+S3.C1.R1.LY,abs @470nm w/DMSO,1.07042
+S3.C1.R1.P1,promoter 1,12.0
+S3.C1.R1.P2,promoter 2,12.0
+S3.C1.R1.P3,promoter 3,12.0
+S3.C1.R1.LY,abs @470nm w/DMSO,1.17319
+S3.C1.R1.P1,promoter 1,12.0
+S3.C1.R1.P2,promoter 2,3.0
+S3.C1.R1.P3,promoter 3,12.0
+S3.C1.R1.LY,abs @470nm w/DMSO,4.44812
+S3.C1.R1.P1,promoter 1,12.0
+S3.C1.R1.P2,promoter 2,20.0
+S3.C1.R1.P3,promoter 3,14.0
+S3.C1.R1.LY,abs @470nm w/DMSO,0.79646
+S3.C1.R1.P1,promoter 1,13.0
+S3.C1.R1.P2,promoter 2,1.0
+S3.C1.R1.P3,promoter 3,22.0
+S3.C1.R1.LY,abs @470nm w/DMSO,1.90019
+S3.C1.R1.P1,promoter 1,14.0
+S3.C1.R1.P2,promoter 2,11.0
+S3.C1.R1.P3,promoter 3,5.0
+S3.C1.R1.LY,abs @470nm w/DMSO,1.55559
+S3.C1.R1.P1,promoter 1,14.0
+S3.C1.R1.P2,promoter 2,19.0
+S3.C1.R1.P3,promoter 3,3.0
+S3.C1.R1.LY,abs @470nm w/DMSO,1.96645
+S3.C1.R1.P1,promoter 1,15.0
+S3.C1.R1.P2,promoter 2,3.0
+S3.C1.R1.P3,promoter 3,9.0
+S3.C1.R1.LY,abs @470nm w/DMSO,0.66126
+S3.C1.R1.P1,promoter 1,15.0
+S3.C1.R1.P2,promoter 2,24.0
+S3.C1.R1.P3,promoter 3,9.0
+S3.C1.R1.LY,abs @470nm w/DMSO,1.91714
+S3.C1.R1.P1,promoter 1,16.0
+S3.C1.R1.P2,promoter 2,16.0
+S3.C1.R1.P3,promoter 3,1.0
+S3.C1.R1.LY,abs @470nm w/DMSO,1.08503
+S3.C1.R1.P1,promoter 1,17.0
+S3.C1.R1.P2,promoter 2,20.0
+S3.C1.R1.P3,promoter 3,20.0
+S3.C1.R1.LY,abs @470nm w/DMSO,1.82859
+S3.C1.R1.P1,promoter 1,17.0
+S3.C1.R1.P2,promoter 2,10.0
+S3.C1.R1.P3,promoter 3,24.0
+S3.C1.R1.LY,abs @470nm w/DMSO,2.31958
+S3.C1.R1.P1,promoter 1,18.0
+S3.C1.R1.P2,promoter 2,6.0
+S3.C1.R1.P3,promoter 3,18.0
+S3.C1.R1.LY,abs @470nm w/DMSO,2.4122
+S3.C1.R1.P1,promoter 1,18.0
+S3.C1.R1.P2,promoter 2,9.0
+S3.C1.R1.P3,promoter 3,18.0
+S3.C1.R1.LY,abs @470nm w/DMSO,1.13279
+S3.C1.R1.P1,promoter 1,18.0
+S3.C1.R1.P2,promoter 2,14.0
+S3.C1.R1.P3,promoter 3,8.0
+S3.C1.R1.LY,abs @470nm w/DMSO,2.59691
+S3.C1.R1.P1,promoter 1,19.0
+S3.C1.R1.P2,promoter 2,19.0
+S3.C1.R1.P3,promoter 3,16.0
+S3.C1.R1.LY,abs @470nm w/DMSO,0.78047
+S3.C1.R1.P1,promoter 1,20.0
+S3.C1.R1.P2,promoter 2,17.0
+S3.C1.R1.P3,promoter 3,11.0
+S3.C1.R1.LY,abs @470nm w/DMSO,2.30347
+S3.C1.R1.P1,promoter 1,20.0
+S3.C1.R1.P2,promoter 2,1.0
+S3.C1.R1.P3,promoter 3,9.0
+S3.C1.R1.LY,abs @470nm w/DMSO,2.01321
+S3.C1.R1.P1,promoter 1,21.0
+S3.C1.R1.P2,promoter 2,21.0
+S3.C1.R1.P3,promoter 3,3.0
+S3.C1.R1.LY,abs @470nm w/DMSO,2.35603
+S3.C1.R1.P1,promoter 1,21.0
+S3.C1.R1.P2,promoter 2,6.0
+S3.C1.R1.P3,promoter 3,3.0
+S3.C1.R1.LY,abs @470nm w/DMSO,1.95203
+S3.C1.R1.P1,promoter 1,21.0
+S3.C1.R1.P2,promoter 2,23.0
+S3.C1.R1.P3,promoter 3,23.0
+S3.C1.R1.LY,abs @470nm w/DMSO,1.18811
+S3.C1.R1.P1,promoter 1,22.0
+S3.C1.R1.P2,promoter 2,10.0
+S3.C1.R1.P3,promoter 3,7.0
+S3.C1.R1.LY,abs @470nm w/DMSO,1.25478
+S3.C1.R1.P1,promoter 1,23.0
+S3.C1.R1.P2,promoter 2,2.0
+S3.C1.R1.P3,promoter 3,14.0
+S3.C1.R1.LY,abs @470nm w/DMSO,2.38032
+S3.C1.R1.P1,promoter 1,23.0
+S3.C1.R1.P2,promoter 2,16.0
+S3.C1.R1.P3,promoter 3,18.0
+S3.C1.R1.LY,abs @470nm w/DMSO,1.06371
+S3.C1.R1.P1,promoter 1,24.0
+S3.C1.R1.P2,promoter 2,15.0
+S3.C1.R1.P3,promoter 3,24.0
+S3.C1.R1.LY,abs @470nm w/DMSO,2.67794
+S3.C1.R1.P1,promoter 1,24.0
+S3.C1.R1.P2,promoter 2,8.0
+S3.C1.R1.P3,promoter 3,2.0
+S3.C1.R1.LY,abs @470nm w/DMSO,2.06274
+S4.C1.R1.P1,promoter 1,1.0
+S4.C1.R1.P2,promoter 2,1.0
+S4.C1.R1.P3,promoter 3,1.0
+S4.C1.R1.LY,abs @470nm w/DMSO,1.07653
+S4.C1.R1.P1,promoter 1,1.0
+S4.C1.R1.P2,promoter 2,13.0
+S4.C1.R1.P3,promoter 3,10.0
+S4.C1.R1.LY,abs @470nm w/DMSO,0.80869
+S4.C1.R1.P1,promoter 1,2.0
+S4.C1.R1.P2,promoter 2,23.0
+S4.C1.R1.P3,promoter 3,17.0
+S4.C1.R1.LY,abs @470nm w/DMSO,0.76127
+S4.C1.R1.P1,promoter 1,2.0
+S4.C1.R1.P2,promoter 2,7.0
+S4.C1.R1.P3,promoter 3,15.0
+S4.C1.R1.LY,abs @470nm w/DMSO,1.5492
+S4.C1.R1.P1,promoter 1,3.0
+S4.C1.R1.P2,promoter 2,15.0
+S4.C1.R1.P3,promoter 3,21.0
+S4.C1.R1.LY,abs @470nm w/DMSO,1.41596
+S4.C1.R1.P1,promoter 1,3.0
+S4.C1.R1.P2,promoter 2,12.0
+S4.C1.R1.P3,promoter 3,21.0
+S4.C1.R1.LY,abs @470nm w/DMSO,2.59705
+S4.C1.R1.P1,promoter 1,4.0
+S4.C1.R1.P2,promoter 2,4.0
+S4.C1.R1.P3,promoter 3,13.0
+S4.C1.R1.LY,abs @470nm w/DMSO,1.51772
+S4.C1.R1.P1,promoter 1,5.0
+S4.C1.R1.P2,promoter 2,8.0
+S4.C1.R1.P3,promoter 3,8.0
+S4.C1.R1.LY,abs @470nm w/DMSO,1.94892
+S4.C1.R1.P1,promoter 1,5.0
+S4.C1.R1.P2,promoter 2,22.0
+S4.C1.R1.P3,promoter 3,12.0
+S4.C1.R1.LY,abs @470nm w/DMSO,2.19962
+S4.C1.R1.P1,promoter 1,6.0
+S4.C1.R1.P2,promoter 2,18.0
+S4.C1.R1.P3,promoter 3,6.0
+S4.C1.R1.LY,abs @470nm w/DMSO,3.77526
+S4.C1.R1.P1,promoter 1,6.0
+S4.C1.R1.P2,promoter 2,21.0
+S4.C1.R1.P3,promoter 3,6.0
+S4.C1.R1.LY,abs @470nm w/DMSO,1.15689
+S4.C1.R1.P1,promoter 1,6.0
+S4.C1.R1.P2,promoter 2,2.0
+S4.C1.R1.P3,promoter 3,20.0
+S4.C1.R1.LY,abs @470nm w/DMSO,3.92468
+S4.C1.R1.P1,promoter 1,7.0
+S4.C1.R1.P2,promoter 2,7.0
+S4.C1.R1.P3,promoter 3,4.0
+S4.C1.R1.LY,abs @470nm w/DMSO,1.57691
+S4.C1.R1.P1,promoter 1,8.0
+S4.C1.R1.P2,promoter 2,5.0
+S4.C1.R1.P3,promoter 3,23.0
+S4.C1.R1.LY,abs @470nm w/DMSO,2.48956
+S4.C1.R1.P1,promoter 1,8.0
+S4.C1.R1.P2,promoter 2,13.0
+S4.C1.R1.P3,promoter 3,21.0
+S4.C1.R1.LY,abs @470nm w/DMSO,0.92942
+S4.C1.R1.P1,promoter 1,9.0
+S4.C1.R1.P2,promoter 2,9.0
+S4.C1.R1.P3,promoter 3,15.0
+S4.C1.R1.LY,abs @470nm w/DMSO,3.2793
+S4.C1.R1.P1,promoter 1,9.0
+S4.C1.R1.P2,promoter 2,18.0
+S4.C1.R1.P3,promoter 3,15.0
+S4.C1.R1.LY,abs @470nm w/DMSO,1.58086
+S4.C1.R1.P1,promoter 1,9.0
+S4.C1.R1.P2,promoter 2,11.0
+S4.C1.R1.P3,promoter 3,11.0
+S4.C1.R1.LY,abs @470nm w/DMSO,1.94176
+S4.C1.R1.P1,promoter 1,10.0
+S4.C1.R1.P2,promoter 2,22.0
+S4.C1.R1.P3,promoter 3,19.0
+S4.C1.R1.LY,abs @470nm w/DMSO,4.39029
+S4.C1.R1.P1,promoter 1,11.0
+S4.C1.R1.P2,promoter 2,14.0
+S4.C1.R1.P3,promoter 3,2.0
+S4.C1.R1.LY,abs @470nm w/DMSO,1.46785
+S4.C1.R1.P1,promoter 1,11.0
+S4.C1.R1.P2,promoter 2,4.0
+S4.C1.R1.P3,promoter 3,6.0
+S4.C1.R1.LY,abs @470nm w/DMSO,1.1507
+S4.C1.R1.P1,promoter 1,12.0
+S4.C1.R1.P2,promoter 2,12.0
+S4.C1.R1.P3,promoter 3,12.0
+S4.C1.R1.LY,abs @470nm w/DMSO,1.13179
+S4.C1.R1.P1,promoter 1,12.0
+S4.C1.R1.P2,promoter 2,3.0
+S4.C1.R1.P3,promoter 3,12.0
+S4.C1.R1.LY,abs @470nm w/DMSO,3.7531
+S4.C1.R1.P1,promoter 1,12.0
+S4.C1.R1.P2,promoter 2,20.0
+S4.C1.R1.P3,promoter 3,14.0
+S4.C1.R1.LY,abs @470nm w/DMSO,0.79646
+S4.C1.R1.P1,promoter 1,13.0
+S4.C1.R1.P2,promoter 2,1.0
+S4.C1.R1.P3,promoter 3,22.0
+S4.C1.R1.LY,abs @470nm w/DMSO,1.68906
+S4.C1.R1.P1,promoter 1,14.0
+S4.C1.R1.P2,promoter 2,11.0
+S4.C1.R1.P3,promoter 3,5.0
+S4.C1.R1.LY,abs @470nm w/DMSO,1.74764
+S4.C1.R1.P1,promoter 1,14.0
+S4.C1.R1.P2,promoter 2,19.0
+S4.C1.R1.P3,promoter 3,3.0
+S4.C1.R1.LY,abs @470nm w/DMSO,2.37916
+S4.C1.R1.P1,promoter 1,15.0
+S4.C1.R1.P2,promoter 2,3.0
+S4.C1.R1.P3,promoter 3,9.0
+S4.C1.R1.LY,abs @470nm w/DMSO,0.69275
+S4.C1.R1.P1,promoter 1,15.0
+S4.C1.R1.P2,promoter 2,24.0
+S4.C1.R1.P3,promoter 3,9.0
+S4.C1.R1.LY,abs @470nm w/DMSO,1.72543
+S4.C1.R1.P1,promoter 1,16.0
+S4.C1.R1.P2,promoter 2,16.0
+S4.C1.R1.P3,promoter 3,1.0
+S4.C1.R1.LY,abs @470nm w/DMSO,1.19089
+S4.C1.R1.P1,promoter 1,17.0
+S4.C1.R1.P2,promoter 2,20.0
+S4.C1.R1.P3,promoter 3,20.0
+S4.C1.R1.LY,abs @470nm w/DMSO,1.49985
+S4.C1.R1.P1,promoter 1,17.0
+S4.C1.R1.P2,promoter 2,10.0
+S4.C1.R1.P3,promoter 3,24.0
+S4.C1.R1.LY,abs @470nm w/DMSO,2.11339
+S4.C1.R1.P1,promoter 1,18.0
+S4.C1.R1.P2,promoter 2,6.0
+S4.C1.R1.P3,promoter 3,18.0
+S4.C1.R1.LY,abs @470nm w/DMSO,2.24584
+S4.C1.R1.P1,promoter 1,18.0
+S4.C1.R1.P2,promoter 2,9.0
+S4.C1.R1.P3,promoter 3,18.0
+S4.C1.R1.LY,abs @470nm w/DMSO,1.13279
+S4.C1.R1.P1,promoter 1,18.0
+S4.C1.R1.P2,promoter 2,14.0
+S4.C1.R1.P3,promoter 3,8.0
+S4.C1.R1.LY,abs @470nm w/DMSO,2.48019
+S4.C1.R1.P1,promoter 1,19.0
+S4.C1.R1.P2,promoter 2,19.0
+S4.C1.R1.P3,promoter 3,16.0
+S4.C1.R1.LY,abs @470nm w/DMSO,0.77161
+S4.C1.R1.P1,promoter 1,20.0
+S4.C1.R1.P2,promoter 2,17.0
+S4.C1.R1.P3,promoter 3,11.0
+S4.C1.R1.LY,abs @470nm w/DMSO,2.19507
+S4.C1.R1.P1,promoter 1,20.0
+S4.C1.R1.P2,promoter 2,1.0
+S4.C1.R1.P3,promoter 3,9.0
+S4.C1.R1.LY,abs @470nm w/DMSO,1.85487
+S4.C1.R1.P1,promoter 1,21.0
+S4.C1.R1.P2,promoter 2,21.0
+S4.C1.R1.P3,promoter 3,3.0
+S4.C1.R1.LY,abs @470nm w/DMSO,2.75828
+S4.C1.R1.P1,promoter 1,21.0
+S4.C1.R1.P2,promoter 2,6.0
+S4.C1.R1.P3,promoter 3,3.0
+S4.C1.R1.LY,abs @470nm w/DMSO,1.84237
+S4.C1.R1.P1,promoter 1,21.0
+S4.C1.R1.P2,promoter 2,23.0
+S4.C1.R1.P3,promoter 3,23.0
+S4.C1.R1.LY,abs @470nm w/DMSO,1.04127
+S4.C1.R1.P1,promoter 1,22.0
+S4.C1.R1.P2,promoter 2,10.0
+S4.C1.R1.P3,promoter 3,7.0
+S4.C1.R1.LY,abs @470nm w/DMSO,1.38026
+S4.C1.R1.P1,promoter 1,23.0
+S4.C1.R1.P2,promoter 2,2.0
+S4.C1.R1.P3,promoter 3,14.0
+S4.C1.R1.LY,abs @470nm w/DMSO,2.83065
+S4.C1.R1.P1,promoter 1,23.0
+S4.C1.R1.P2,promoter 2,16.0
+S4.C1.R1.P3,promoter 3,18.0
+S4.C1.R1.LY,abs @470nm w/DMSO,1.12555
+S4.C1.R1.P1,promoter 1,24.0
+S4.C1.R1.P2,promoter 2,15.0
+S4.C1.R1.P3,promoter 3,24.0
+S4.C1.R1.LY,abs @470nm w/DMSO,2.83926
+S4.C1.R1.P1,promoter 1,24.0
+S4.C1.R1.P2,promoter 2,8.0
+S4.C1.R1.P3,promoter 3,2.0
+S4.C1.R1.LY,abs @470nm w/DMSO,2.32058
+S1.C2.R2.P1,promoter 1,2.0
+S1.C2.R2.P2,promoter 2,3.0
+S1.C2.R2.P3,promoter 3,18.0
+S1.C2.R2.LY,abs @470nm w/DMSO,0.68389
+S1.C2.R2.P1,promoter 1,8.0
+S1.C2.R2.P2,promoter 2,3.0
+S1.C2.R2.P3,promoter 3,21.0
+S1.C2.R2.LY,abs @470nm w/DMSO,2.42208
+S1.C2.R2.P1,promoter 1,9.0
+S1.C2.R2.P2,promoter 2,3.0
+S1.C2.R2.P3,promoter 3,20.0
+S1.C2.R2.LY,abs @470nm w/DMSO,1.0163
+S1.C2.R2.P1,promoter 1,9.0
+S1.C2.R2.P2,promoter 2,7.0
+S1.C2.R2.P3,promoter 3,16.0
+S1.C2.R2.LY,abs @470nm w/DMSO,4.53049
+S1.C2.R2.P1,promoter 1,11.0
+S1.C2.R2.P2,promoter 2,3.0
+S1.C2.R2.P3,promoter 3,14.0
+S1.C2.R2.LY,abs @470nm w/DMSO,2.12034
+S1.C2.R2.P1,promoter 1,12.0
+S1.C2.R2.P2,promoter 2,3.0
+S1.C2.R2.P3,promoter 3,5.0
+S1.C2.R2.LY,abs @470nm w/DMSO,1.37836
+S1.C2.R2.P1,promoter 1,12.0
+S1.C2.R2.P2,promoter 2,12.0
+S1.C2.R2.P3,promoter 3,12.0
+S1.C2.R2.LY,abs @470nm w/DMSO,1.39559
+S1.C2.R2.P1,promoter 1,14.0
+S1.C2.R2.P2,promoter 2,3.0
+S1.C2.R2.P3,promoter 3,20.0
+S1.C2.R2.LY,abs @470nm w/DMSO,1.02709
+S1.C2.R2.P1,promoter 1,15.0
+S1.C2.R2.P2,promoter 2,7.0
+S1.C2.R2.P3,promoter 3,2.0
+S1.C2.R2.LY,abs @470nm w/DMSO,3.07646
+S1.C2.R2.P1,promoter 1,15.0
+S1.C2.R2.P2,promoter 2,8.0
+S1.C2.R2.P3,promoter 3,2.0
+S1.C2.R2.LY,abs @470nm w/DMSO,3.44918
+S1.C2.R2.P1,promoter 1,16.0
+S1.C2.R2.P2,promoter 2,1.0
+S1.C2.R2.P3,promoter 3,2.0
+S1.C2.R2.LY,abs @470nm w/DMSO,5.09591
+S1.C2.R2.P1,promoter 1,16.0
+S1.C2.R2.P2,promoter 2,3.0
+S1.C2.R2.P3,promoter 3,22.0
+S1.C2.R2.LY,abs @470nm w/DMSO,2.16454
+S1.C2.R2.P1,promoter 1,16.0
+S1.C2.R2.P2,promoter 2,4.0
+S1.C2.R2.P3,promoter 3,1.0
+S1.C2.R2.LY,abs @470nm w/DMSO,2.56512
+S1.C2.R2.P1,promoter 1,16.0
+S1.C2.R2.P2,promoter 2,4.0
+S1.C2.R2.P3,promoter 3,2.0
+S1.C2.R2.LY,abs @470nm w/DMSO,2.22211
+S1.C2.R2.P1,promoter 1,16.0
+S1.C2.R2.P2,promoter 2,6.0
+S1.C2.R2.P3,promoter 3,1.0
+S1.C2.R2.LY,abs @470nm w/DMSO,3.9798
+S1.C2.R2.P1,promoter 1,16.0
+S1.C2.R2.P2,promoter 2,6.0
+S1.C2.R2.P3,promoter 3,4.0
+S1.C2.R2.LY,abs @470nm w/DMSO,2.79591
+S1.C2.R2.P1,promoter 1,16.0
+S1.C2.R2.P2,promoter 2,7.0
+S1.C2.R2.P3,promoter 3,2.0
+S1.C2.R2.LY,abs @470nm w/DMSO,5.22982
+S1.C2.R2.P1,promoter 1,16.0
+S1.C2.R2.P2,promoter 2,7.0
+S1.C2.R2.P3,promoter 3,5.0
+S1.C2.R2.LY,abs @470nm w/DMSO,2.94973
+S1.C2.R2.P1,promoter 1,16.0
+S1.C2.R2.P2,promoter 2,9.0
+S1.C2.R2.P3,promoter 3,4.0
+S1.C2.R2.LY,abs @470nm w/DMSO,4.85367
+S1.C2.R2.P1,promoter 1,16.0
+S1.C2.R2.P2,promoter 2,10.0
+S1.C2.R2.P3,promoter 3,1.0
+S1.C2.R2.LY,abs @470nm w/DMSO,3.13277
+S1.C2.R2.P1,promoter 1,16.0
+S1.C2.R2.P2,promoter 2,10.0
+S1.C2.R2.P3,promoter 3,4.0
+S1.C2.R2.LY,abs @470nm w/DMSO,6.04958
+S1.C2.R2.P1,promoter 1,16.0
+S1.C2.R2.P2,promoter 2,10.0
+S1.C2.R2.P3,promoter 3,17.0
+S1.C2.R2.LY,abs @470nm w/DMSO,2.46781
+S1.C2.R2.P1,promoter 1,16.0
+S1.C2.R2.P2,promoter 2,13.0
+S1.C2.R2.P3,promoter 3,3.0
+S1.C2.R2.LY,abs @470nm w/DMSO,1.39065
+S1.C2.R2.P1,promoter 1,16.0
+S1.C2.R2.P2,promoter 2,13.0
+S1.C2.R2.P3,promoter 3,4.0
+S1.C2.R2.LY,abs @470nm w/DMSO,1.19378
+S1.C2.R2.P1,promoter 1,16.0
+S1.C2.R2.P2,promoter 2,15.0
+S1.C2.R2.P3,promoter 3,2.0
+S1.C2.R2.LY,abs @470nm w/DMSO,2.25239
+S1.C2.R2.P1,promoter 1,16.0
+S1.C2.R2.P2,promoter 2,15.0
+S1.C2.R2.P3,promoter 3,14.0
+S1.C2.R2.LY,abs @470nm w/DMSO,2.18454
+S1.C2.R2.P1,promoter 1,16.0
+S1.C2.R2.P2,promoter 2,18.0
+S1.C2.R2.P3,promoter 3,1.0
+S1.C2.R2.LY,abs @470nm w/DMSO,2.53728
+S1.C2.R2.P1,promoter 1,16.0
+S1.C2.R2.P2,promoter 2,19.0
+S1.C2.R2.P3,promoter 3,16.0
+S1.C2.R2.LY,abs @470nm w/DMSO,3.01819
+S1.C2.R2.P1,promoter 1,17.0
+S1.C2.R2.P2,promoter 2,1.0
+S1.C2.R2.P3,promoter 3,16.0
+S1.C2.R2.LY,abs @470nm w/DMSO,3.62446
+S1.C2.R2.P1,promoter 1,17.0
+S1.C2.R2.P2,promoter 2,3.0
+S1.C2.R2.P3,promoter 3,18.0
+S1.C2.R2.LY,abs @470nm w/DMSO,4.36907
+S1.C2.R2.P1,promoter 1,17.0
+S1.C2.R2.P2,promoter 2,9.0
+S1.C2.R2.P3,promoter 3,18.0
+S1.C2.R2.LY,abs @470nm w/DMSO,0.77425
+S1.C2.R2.P1,promoter 1,17.0
+S1.C2.R2.P2,promoter 2,11.0
+S1.C2.R2.P3,promoter 3,16.0
+S1.C2.R2.LY,abs @470nm w/DMSO,4.04767
+S1.C2.R2.P1,promoter 1,17.0
+S1.C2.R2.P2,promoter 2,14.0
+S1.C2.R2.P3,promoter 3,18.0
+S1.C2.R2.LY,abs @470nm w/DMSO,1.97278
+S1.C2.R2.P1,promoter 1,17.0
+S1.C2.R2.P2,promoter 2,14.0
+S1.C2.R2.P3,promoter 3,20.0
+S1.C2.R2.LY,abs @470nm w/DMSO,0.62002
+S1.C2.R2.P1,promoter 1,17.0
+S1.C2.R2.P2,promoter 2,17.0
+S1.C2.R2.P3,promoter 3,14.0
+S1.C2.R2.LY,abs @470nm w/DMSO,2.92406
+S1.C2.R2.P1,promoter 1,17.0
+S1.C2.R2.P2,promoter 2,18.0
+S1.C2.R2.P3,promoter 3,16.0
+S1.C2.R2.LY,abs @470nm w/DMSO,1.56376
+S1.C2.R2.P1,promoter 1,19.0
+S1.C2.R2.P2,promoter 2,3.0
+S1.C2.R2.P3,promoter 3,13.0
+S1.C2.R2.LY,abs @470nm w/DMSO,2.01017
+S1.C2.R2.P1,promoter 1,19.0
+S1.C2.R2.P2,promoter 2,3.0
+S1.C2.R2.P3,promoter 3,20.0
+S1.C2.R2.LY,abs @470nm w/DMSO,0.56879
+S1.C2.R2.P1,promoter 1,20.0
+S1.C2.R2.P2,promoter 2,2.0
+S1.C2.R2.P3,promoter 3,3.0
+S1.C2.R2.LY,abs @470nm w/DMSO,2.23001
+S1.C2.R2.P1,promoter 1,20.0
+S1.C2.R2.P2,promoter 2,6.0
+S1.C2.R2.P3,promoter 3,3.0
+S1.C2.R2.LY,abs @470nm w/DMSO,2.03439
+S1.C2.R2.P1,promoter 1,20.0
+S1.C2.R2.P2,promoter 2,8.0
+S1.C2.R2.P3,promoter 3,7.0
+S1.C2.R2.LY,abs @470nm w/DMSO,4.98217
+S1.C2.R2.P1,promoter 1,20.0
+S1.C2.R2.P2,promoter 2,9.0
+S1.C2.R2.P3,promoter 3,2.0
+S1.C2.R2.LY,abs @470nm w/DMSO,3.44425
+S1.C2.R2.P1,promoter 1,20.0
+S1.C2.R2.P2,promoter 2,11.0
+S1.C2.R2.P3,promoter 3,3.0
+S1.C2.R2.LY,abs @470nm w/DMSO,1.88984
+S1.C2.R2.P1,promoter 1,20.0
+S1.C2.R2.P2,promoter 2,15.0
+S1.C2.R2.P3,promoter 3,4.0
+S1.C2.R2.LY,abs @470nm w/DMSO,1.4428
+S1.C2.R2.P1,promoter 1,20.0
+S1.C2.R2.P2,promoter 2,19.0
+S1.C2.R2.P3,promoter 3,3.0
+S1.C2.R2.LY,abs @470nm w/DMSO,1.22363
+S2.C2.R2.P1,promoter 1,2.0
+S2.C2.R2.P2,promoter 2,3.0
+S2.C2.R2.P3,promoter 3,18.0
+S2.C2.R2.LY,abs @470nm w/DMSO,0.66741
+S2.C2.R2.P1,promoter 1,8.0
+S2.C2.R2.P2,promoter 2,3.0
+S2.C2.R2.P3,promoter 3,21.0
+S2.C2.R2.LY,abs @470nm w/DMSO,2.25504
+S2.C2.R2.P1,promoter 1,9.0
+S2.C2.R2.P2,promoter 2,3.0
+S2.C2.R2.P3,promoter 3,20.0
+S2.C2.R2.LY,abs @470nm w/DMSO,1.10413
+S2.C2.R2.P1,promoter 1,9.0
+S2.C2.R2.P2,promoter 2,7.0
+S2.C2.R2.P3,promoter 3,16.0
+S2.C2.R2.LY,abs @470nm w/DMSO,4.75702
+S2.C2.R2.P1,promoter 1,11.0
+S2.C2.R2.P2,promoter 2,3.0
+S2.C2.R2.P3,promoter 3,14.0
+S2.C2.R2.LY,abs @470nm w/DMSO,2.19791
+S2.C2.R2.P1,promoter 1,12.0
+S2.C2.R2.P2,promoter 2,3.0
+S2.C2.R2.P3,promoter 3,5.0
+S2.C2.R2.LY,abs @470nm w/DMSO,1.53342
+S2.C2.R2.P1,promoter 1,12.0
+S2.C2.R2.P2,promoter 2,12.0
+S2.C2.R2.P3,promoter 3,12.0
+S2.C2.R2.LY,abs @470nm w/DMSO,1.41282
+S2.C2.R2.P1,promoter 1,14.0
+S2.C2.R2.P2,promoter 2,3.0
+S2.C2.R2.P3,promoter 3,20.0
+S2.C2.R2.LY,abs @470nm w/DMSO,1.00401
+S2.C2.R2.P1,promoter 1,15.0
+S2.C2.R2.P2,promoter 2,7.0
+S2.C2.R2.P3,promoter 3,2.0
+S2.C2.R2.LY,abs @470nm w/DMSO,3.07646
+S2.C2.R2.P1,promoter 1,15.0
+S2.C2.R2.P2,promoter 2,8.0
+S2.C2.R2.P3,promoter 3,2.0
+S2.C2.R2.LY,abs @470nm w/DMSO,3.53541
+S2.C2.R2.P1,promoter 1,16.0
+S2.C2.R2.P2,promoter 2,1.0
+S2.C2.R2.P3,promoter 3,2.0
+S2.C2.R2.LY,abs @470nm w/DMSO,4.91814
+S2.C2.R2.P1,promoter 1,16.0
+S2.C2.R2.P2,promoter 2,3.0
+S2.C2.R2.P3,promoter 3,22.0
+S2.C2.R2.LY,abs @470nm w/DMSO,2.04015
+S2.C2.R2.P1,promoter 1,16.0
+S2.C2.R2.P2,promoter 2,4.0
+S2.C2.R2.P3,promoter 3,1.0
+S2.C2.R2.LY,abs @470nm w/DMSO,2.59427
+S2.C2.R2.P1,promoter 1,16.0
+S2.C2.R2.P2,promoter 2,4.0
+S2.C2.R2.P3,promoter 3,2.0
+S2.C2.R2.LY,abs @470nm w/DMSO,2.27697
+S2.C2.R2.P1,promoter 1,16.0
+S2.C2.R2.P2,promoter 2,6.0
+S2.C2.R2.P3,promoter 3,1.0
+S2.C2.R2.LY,abs @470nm w/DMSO,4.07456
+S2.C2.R2.P1,promoter 1,16.0
+S2.C2.R2.P2,promoter 2,6.0
+S2.C2.R2.P3,promoter 3,4.0
+S2.C2.R2.LY,abs @470nm w/DMSO,2.69605
+S2.C2.R2.P1,promoter 1,16.0
+S2.C2.R2.P2,promoter 2,7.0
+S2.C2.R2.P3,promoter 3,2.0
+S2.C2.R2.LY,abs @470nm w/DMSO,5.54487
+S2.C2.R2.P1,promoter 1,16.0
+S2.C2.R2.P2,promoter 2,7.0
+S2.C2.R2.P3,promoter 3,5.0
+S2.C2.R2.LY,abs @470nm w/DMSO,3.20783
+S2.C2.R2.P1,promoter 1,16.0
+S2.C2.R2.P2,promoter 2,9.0
+S2.C2.R2.P3,promoter 3,4.0
+S2.C2.R2.LY,abs @470nm w/DMSO,4.63553
+S2.C2.R2.P1,promoter 1,16.0
+S2.C2.R2.P2,promoter 2,10.0
+S2.C2.R2.P3,promoter 3,1.0
+S2.C2.R2.LY,abs @470nm w/DMSO,3.28559
+S2.C2.R2.P1,promoter 1,16.0
+S2.C2.R2.P2,promoter 2,10.0
+S2.C2.R2.P3,promoter 3,4.0
+S2.C2.R2.LY,abs @470nm w/DMSO,6.19193
+S2.C2.R2.P1,promoter 1,16.0
+S2.C2.R2.P2,promoter 2,10.0
+S2.C2.R2.P3,promoter 3,17.0
+S2.C2.R2.LY,abs @470nm w/DMSO,2.67847
+S2.C2.R2.P1,promoter 1,16.0
+S2.C2.R2.P2,promoter 2,13.0
+S2.C2.R2.P3,promoter 3,3.0
+S2.C2.R2.LY,abs @470nm w/DMSO,1.46018
+S2.C2.R2.P1,promoter 1,16.0
+S2.C2.R2.P2,promoter 2,13.0
+S2.C2.R2.P3,promoter 3,4.0
+S2.C2.R2.LY,abs @470nm w/DMSO,1.31316
+S3.C2.R2.P1,promoter 1,16.0
+S3.C2.R2.P2,promoter 2,15.0
+S3.C2.R2.P3,promoter 3,2.0
+S3.C2.R2.LY,abs @470nm w/DMSO,2.4172
+S3.C2.R2.P1,promoter 1,16.0
+S3.C2.R2.P2,promoter 2,15.0
+S3.C2.R2.P3,promoter 3,14.0
+S3.C2.R2.LY,abs @470nm w/DMSO,2.20965
+S3.C2.R2.P1,promoter 1,16.0
+S3.C2.R2.P2,promoter 2,18.0
+S3.C2.R2.P3,promoter 3,1.0
+S3.C2.R2.LY,abs @470nm w/DMSO,2.28355
+S3.C2.R2.P1,promoter 1,16.0
+S3.C2.R2.P2,promoter 2,19.0
+S3.C2.R2.P3,promoter 3,16.0
+S3.C2.R2.LY,abs @470nm w/DMSO,2.948
+S3.C2.R2.P1,promoter 1,17.0
+S3.C2.R2.P2,promoter 2,1.0
+S3.C2.R2.P3,promoter 3,16.0
+S3.C2.R2.LY,abs @470nm w/DMSO,3.22174
+S3.C2.R2.P1,promoter 1,17.0
+S3.C2.R2.P2,promoter 2,3.0
+S3.C2.R2.P3,promoter 3,18.0
+S3.C2.R2.LY,abs @470nm w/DMSO,4.64213
+S3.C2.R2.P1,promoter 1,17.0
+S3.C2.R2.P2,promoter 2,9.0
+S3.C2.R2.P3,promoter 3,18.0
+S3.C2.R2.LY,abs @470nm w/DMSO,0.79361
+S3.C2.R2.P1,promoter 1,17.0
+S3.C2.R2.P2,promoter 2,11.0
+S3.C2.R2.P3,promoter 3,16.0
+S3.C2.R2.LY,abs @470nm w/DMSO,4.04767
+S3.C2.R2.P1,promoter 1,17.0
+S3.C2.R2.P2,promoter 2,14.0
+S3.C2.R2.P3,promoter 3,18.0
+S3.C2.R2.LY,abs @470nm w/DMSO,2.01976
+S3.C2.R2.P1,promoter 1,17.0
+S3.C2.R2.P2,promoter 2,14.0
+S3.C2.R2.P3,promoter 3,20.0
+S3.C2.R2.LY,abs @470nm w/DMSO,0.59184
+S3.C2.R2.P1,promoter 1,17.0
+S3.C2.R2.P2,promoter 2,17.0
+S3.C2.R2.P3,promoter 3,14.0
+S3.C2.R2.LY,abs @470nm w/DMSO,2.75206
+S3.C2.R2.P1,promoter 1,17.0
+S3.C2.R2.P2,promoter 2,18.0
+S3.C2.R2.P3,promoter 3,16.0
+S3.C2.R2.LY,abs @470nm w/DMSO,1.73968
+S3.C2.R2.P1,promoter 1,19.0
+S3.C2.R2.P2,promoter 2,3.0
+S3.C2.R2.P3,promoter 3,13.0
+S3.C2.R2.LY,abs @470nm w/DMSO,2.01017
+S3.C2.R2.P1,promoter 1,19.0
+S3.C2.R2.P2,promoter 2,3.0
+S3.C2.R2.P3,promoter 3,20.0
+S3.C2.R2.LY,abs @470nm w/DMSO,0.5962
+S3.C2.R2.P1,promoter 1,20.0
+S3.C2.R2.P2,promoter 2,2.0
+S3.C2.R2.P3,promoter 3,3.0
+S3.C2.R2.LY,abs @470nm w/DMSO,2.20378
+S3.C2.R2.P1,promoter 1,20.0
+S3.C2.R2.P2,promoter 2,6.0
+S3.C2.R2.P3,promoter 3,3.0
+S3.C2.R2.LY,abs @470nm w/DMSO,1.91611
+S3.C2.R2.P1,promoter 1,20.0
+S3.C2.R2.P2,promoter 2,8.0
+S3.C2.R2.P3,promoter 3,7.0
+S3.C2.R2.LY,abs @470nm w/DMSO,4.75044
+S3.C2.R2.P1,promoter 1,20.0
+S3.C2.R2.P2,promoter 2,9.0
+S3.C2.R2.P3,promoter 3,2.0
+S3.C2.R2.LY,abs @470nm w/DMSO,3.28217
+S3.C2.R2.P1,promoter 1,20.0
+S3.C2.R2.P2,promoter 2,11.0
+S3.C2.R2.P3,promoter 3,3.0
+S3.C2.R2.LY,abs @470nm w/DMSO,1.80194
+S3.C2.R2.P1,promoter 1,20.0
+S3.C2.R2.P2,promoter 2,15.0
+S3.C2.R2.P3,promoter 3,4.0
+S3.C2.R2.LY,abs @470nm w/DMSO,1.42541
+S3.C2.R2.P1,promoter 1,20.0
+S3.C2.R2.P2,promoter 2,19.0
+S3.C2.R2.P3,promoter 3,3.0
+S3.C2.R2.LY,abs @470nm w/DMSO,1.31316
+S3.C2.R2.P1,promoter 1,2.0
+S3.C2.R2.P2,promoter 2,3.0
+S3.C2.R2.P3,promoter 3,18.0
+S3.C2.R2.LY,abs @470nm w/DMSO,0.66741
+S3.C2.R2.P1,promoter 1,8.0
+S3.C2.R2.P2,promoter 2,3.0
+S3.C2.R2.P3,promoter 3,21.0
+S3.C2.R2.LY,abs @470nm w/DMSO,2.39424
+S3.C2.R2.P1,promoter 1,9.0
+S3.C2.R2.P2,promoter 2,3.0
+S3.C2.R2.P3,promoter 3,20.0
+S3.C2.R2.LY,abs @470nm w/DMSO,1.02884
+S3.C2.R2.P1,promoter 1,9.0
+S3.C2.R2.P2,promoter 2,7.0
+S3.C2.R2.P3,promoter 3,16.0
+S3.C2.R2.LY,abs @470nm w/DMSO,4.92691
+S3.C2.R2.P1,promoter 1,11.0
+S3.C2.R2.P2,promoter 2,3.0
+S3.C2.R2.P3,promoter 3,14.0
+S3.C2.R2.LY,abs @470nm w/DMSO,2.09448
+S3.C2.R2.P1,promoter 1,12.0
+S3.C2.R2.P2,promoter 2,3.0
+S3.C2.R2.P3,promoter 3,5.0
+S3.C2.R2.LY,abs @470nm w/DMSO,1.4645
+S3.C2.R2.P1,promoter 1,12.0
+S3.C2.R2.P2,promoter 2,12.0
+S3.C2.R2.P3,promoter 3,12.0
+S3.C2.R2.LY,abs @470nm w/DMSO,1.37836
+S3.C2.R2.P1,promoter 1,14.0
+S3.C2.R2.P2,promoter 2,3.0
+S3.C2.R2.P3,promoter 3,20.0
+S3.C2.R2.LY,abs @470nm w/DMSO,1.00401
+S3.C2.R2.P1,promoter 1,15.0
+S3.C2.R2.P2,promoter 2,7.0
+S3.C2.R2.P3,promoter 3,2.0
+S3.C2.R2.LY,abs @470nm w/DMSO,2.96659
+S3.C2.R2.P1,promoter 1,15.0
+S3.C2.R2.P2,promoter 2,8.0
+S3.C2.R2.P3,promoter 3,2.0
+S3.C2.R2.LY,abs @470nm w/DMSO,3.7941
+S3.C2.R2.P1,promoter 1,16.0
+S3.C2.R2.P2,promoter 2,1.0
+S3.C2.R2.P3,promoter 3,2.0
+S3.C2.R2.LY,abs @470nm w/DMSO,5.21442
+S3.C2.R2.P1,promoter 1,16.0
+S3.C2.R2.P2,promoter 2,3.0
+S3.C2.R2.P3,promoter 3,22.0
+S3.C2.R2.LY,abs @470nm w/DMSO,2.11478
+S3.C2.R2.P1,promoter 1,16.0
+S3.C2.R2.P2,promoter 2,4.0
+S3.C2.R2.P3,promoter 3,1.0
+S3.C2.R2.LY,abs @470nm w/DMSO,2.36107
+S3.C2.R2.P1,promoter 1,16.0
+S3.C2.R2.P2,promoter 2,4.0
+S3.C2.R2.P3,promoter 3,2.0
+S3.C2.R2.LY,abs @470nm w/DMSO,2.22211
+S3.C2.R2.P1,promoter 1,16.0
+S3.C2.R2.P2,promoter 2,6.0
+S3.C2.R2.P3,promoter 3,1.0
+S3.C2.R2.LY,abs @470nm w/DMSO,3.93242
+S3.C2.R2.P1,promoter 1,16.0
+S3.C2.R2.P2,promoter 2,6.0
+S3.C2.R2.P3,promoter 3,4.0
+S3.C2.R2.LY,abs @470nm w/DMSO,2.72934
+S3.C2.R2.P1,promoter 1,16.0
+S3.C2.R2.P2,promoter 2,7.0
+S3.C2.R2.P3,promoter 3,2.0
+S3.C2.R2.LY,abs @470nm w/DMSO,5.1038
+S3.C2.R2.P1,promoter 1,16.0
+S3.C2.R2.P2,promoter 2,7.0
+S3.C2.R2.P3,promoter 3,5.0
+S3.C2.R2.LY,abs @470nm w/DMSO,3.13409
+S3.C2.R2.P1,promoter 1,16.0
+S3.C2.R2.P2,promoter 2,9.0
+S3.C2.R2.P3,promoter 3,4.0
+S3.C2.R2.LY,abs @470nm w/DMSO,4.7446
+S3.C2.R2.P1,promoter 1,16.0
+S3.C2.R2.P2,promoter 2,10.0
+S3.C2.R2.P3,promoter 3,1.0
+S3.C2.R2.LY,abs @470nm w/DMSO,3.13277
+S3.C2.R2.P1,promoter 1,16.0
+S3.C2.R2.P2,promoter 2,10.0
+S3.C2.R2.P3,promoter 3,4.0
+S3.C2.R2.LY,abs @470nm w/DMSO,6.12075
+S3.C2.R2.P1,promoter 1,16.0
+S3.C2.R2.P2,promoter 2,10.0
+S3.C2.R2.P3,promoter 3,17.0
+S3.C2.R2.LY,abs @470nm w/DMSO,2.61828
+S3.C2.R2.P1,promoter 1,16.0
+S3.C2.R2.P2,promoter 2,13.0
+S3.C2.R2.P3,promoter 3,3.0
+S3.C2.R2.LY,abs @470nm w/DMSO,1.47756
+S3.C2.R2.P1,promoter 1,16.0
+S3.C2.R2.P2,promoter 2,13.0
+S3.C2.R2.P3,promoter 3,4.0
+S3.C2.R2.LY,abs @470nm w/DMSO,1.32808
+S4.C2.R2.P1,promoter 1,16.0
+S4.C2.R2.P2,promoter 2,15.0
+S4.C2.R2.P3,promoter 3,2.0
+S4.C2.R2.LY,abs @470nm w/DMSO,2.22492
+S4.C2.R2.P1,promoter 1,16.0
+S4.C2.R2.P2,promoter 2,15.0
+S4.C2.R2.P3,promoter 3,14.0
+S4.C2.R2.LY,abs @470nm w/DMSO,2.15943
+S4.C2.R2.P1,promoter 1,16.0
+S4.C2.R2.P2,promoter 2,18.0
+S4.C2.R2.P3,promoter 3,1.0
+S4.C2.R2.LY,abs @470nm w/DMSO,2.53728
+S4.C2.R2.P1,promoter 1,16.0
+S4.C2.R2.P2,promoter 2,19.0
+S4.C2.R2.P3,promoter 3,16.0
+S4.C2.R2.LY,abs @470nm w/DMSO,2.87781
+S4.C2.R2.P1,promoter 1,17.0
+S4.C2.R2.P2,promoter 2,1.0
+S4.C2.R2.P3,promoter 3,16.0
+S4.C2.R2.LY,abs @470nm w/DMSO,3.34256
+S4.C2.R2.P1,promoter 1,17.0
+S4.C2.R2.P2,promoter 2,3.0
+S4.C2.R2.P3,promoter 3,18.0
+S4.C2.R2.LY,abs @470nm w/DMSO,4.86059
+S4.C2.R2.P1,promoter 1,17.0
+S4.C2.R2.P2,promoter 2,9.0
+S4.C2.R2.P3,promoter 3,18.0
+S4.C2.R2.LY,abs @470nm w/DMSO,0.81296
+S4.C2.R2.P1,promoter 1,17.0
+S4.C2.R2.P2,promoter 2,11.0
+S4.C2.R2.P3,promoter 3,16.0
+S4.C2.R2.LY,abs @470nm w/DMSO,4.34028
+S4.C2.R2.P1,promoter 1,17.0
+S4.C2.R2.P2,promoter 2,14.0
+S4.C2.R2.P3,promoter 3,18.0
+S4.C2.R2.LY,abs @470nm w/DMSO,2.01976
+S4.C2.R2.P1,promoter 1,17.0
+S4.C2.R2.P2,promoter 2,14.0
+S4.C2.R2.P3,promoter 3,20.0
+S4.C2.R2.LY,abs @470nm w/DMSO,0.63411
+S4.C2.R2.P1,promoter 1,17.0
+S4.C2.R2.P2,promoter 2,17.0
+S4.C2.R2.P3,promoter 3,14.0
+S4.C2.R2.LY,abs @470nm w/DMSO,2.99287
+S4.C2.R2.P1,promoter 1,17.0
+S4.C2.R2.P2,promoter 2,18.0
+S4.C2.R2.P3,promoter 3,16.0
+S4.C2.R2.LY,abs @470nm w/DMSO,1.6224
+S4.C2.R2.P1,promoter 1,19.0
+S4.C2.R2.P2,promoter 2,3.0
+S4.C2.R2.P3,promoter 3,13.0
+S4.C2.R2.LY,abs @470nm w/DMSO,1.96449
+S4.C2.R2.P1,promoter 1,19.0
+S4.C2.R2.P2,promoter 2,3.0
+S4.C2.R2.P3,promoter 3,20.0
+S4.C2.R2.LY,abs @470nm w/DMSO,0.56879
+S4.C2.R2.P1,promoter 1,20.0
+S4.C2.R2.P2,promoter 2,2.0
+S4.C2.R2.P3,promoter 3,3.0
+S4.C2.R2.LY,abs @470nm w/DMSO,2.12507
+S4.C2.R2.P1,promoter 1,20.0
+S4.C2.R2.P2,promoter 2,6.0
+S4.C2.R2.P3,promoter 3,3.0
+S4.C2.R2.LY,abs @470nm w/DMSO,1.98708
+S4.C2.R2.P1,promoter 1,20.0
+S4.C2.R2.P2,promoter 2,8.0
+S4.C2.R2.P3,promoter 3,7.0
+S4.C2.R2.LY,abs @470nm w/DMSO,4.63458
+S4.C2.R2.P1,promoter 1,20.0
+S4.C2.R2.P2,promoter 2,9.0
+S4.C2.R2.P3,promoter 3,2.0
+S4.C2.R2.LY,abs @470nm w/DMSO,3.40373
+S4.C2.R2.P1,promoter 1,20.0
+S4.C2.R2.P2,promoter 2,11.0
+S4.C2.R2.P3,promoter 3,3.0
+S4.C2.R2.LY,abs @470nm w/DMSO,1.88984
+S4.C2.R2.P1,promoter 1,20.0
+S4.C2.R2.P2,promoter 2,15.0
+S4.C2.R2.P3,promoter 3,4.0
+S4.C2.R2.LY,abs @470nm w/DMSO,1.5471
+S4.C2.R2.P1,promoter 1,20.0
+S4.C2.R2.P2,promoter 2,19.0
+S4.C2.R2.P3,promoter 3,3.0
+S4.C2.R2.LY,abs @470nm w/DMSO,1.32808
+S4.C2.R2.P1,promoter 1,2.0
+S4.C2.R2.P2,promoter 2,3.0
+S4.C2.R2.P3,promoter 3,18.0
+S4.C2.R2.LY,abs @470nm w/DMSO,0.78277
+S4.C2.R2.P1,promoter 1,8.0
+S4.C2.R2.P2,promoter 2,3.0
+S4.C2.R2.P3,promoter 3,21.0
+S4.C2.R2.LY,abs @470nm w/DMSO,2.39424
+S4.C2.R2.P1,promoter 1,9.0
+S4.C2.R2.P2,promoter 2,3.0
+S4.C2.R2.P3,promoter 3,20.0
+S4.C2.R2.LY,abs @470nm w/DMSO,1.11667
+S4.C2.R2.P1,promoter 1,9.0
+S4.C2.R2.P2,promoter 2,7.0
+S4.C2.R2.P3,promoter 3,16.0
+S4.C2.R2.LY,abs @470nm w/DMSO,5.04017
+S4.C2.R2.P1,promoter 1,11.0
+S4.C2.R2.P2,promoter 2,3.0
+S4.C2.R2.P3,promoter 3,14.0
+S4.C2.R2.LY,abs @470nm w/DMSO,2.37892
+S4.C2.R2.P1,promoter 1,12.0
+S4.C2.R2.P2,promoter 2,3.0
+S4.C2.R2.P3,promoter 3,5.0
+S4.C2.R2.LY,abs @470nm w/DMSO,1.48173
+S4.C2.R2.P1,promoter 1,12.0
+S4.C2.R2.P2,promoter 2,12.0
+S4.C2.R2.P3,promoter 3,12.0
+S4.C2.R2.LY,abs @470nm w/DMSO,1.67126
+S4.C2.R2.P1,promoter 1,14.0
+S4.C2.R2.P2,promoter 2,3.0
+S4.C2.R2.P3,promoter 3,20.0
+S4.C2.R2.LY,abs @470nm w/DMSO,0.8886
+S4.C2.R2.P1,promoter 1,15.0
+S4.C2.R2.P2,promoter 2,7.0
+S4.C2.R2.P3,promoter 3,2.0
+S4.C2.R2.LY,abs @470nm w/DMSO,3.33283
+S4.C2.R2.P1,promoter 1,15.0
+S4.C2.R2.P2,promoter 2,8.0
+S4.C2.R2.P3,promoter 3,2.0
+S4.C2.R2.LY,abs @470nm w/DMSO,3.88033
+S4.C2.R2.P1,promoter 1,16.0
+S4.C2.R2.P2,promoter 2,1.0
+S4.C2.R2.P3,promoter 3,2.0
+S4.C2.R2.LY,abs @470nm w/DMSO,4.91814
+S4.C2.R2.P1,promoter 1,16.0
+S4.C2.R2.P2,promoter 2,3.0
+S4.C2.R2.P3,promoter 3,22.0
+S4.C2.R2.LY,abs @470nm w/DMSO,2.13966
+S4.C2.R2.P1,promoter 1,16.0
+S4.C2.R2.P2,promoter 2,4.0
+S4.C2.R2.P3,promoter 3,1.0
+S4.C2.R2.LY,abs @470nm w/DMSO,2.39022
+S4.C2.R2.P1,promoter 1,16.0
+S4.C2.R2.P2,promoter 2,4.0
+S4.C2.R2.P3,promoter 3,2.0
+S4.C2.R2.LY,abs @470nm w/DMSO,2.60617
+S4.C2.R2.P1,promoter 1,16.0
+S4.C2.R2.P2,promoter 2,6.0
+S4.C2.R2.P3,promoter 3,1.0
+S4.C2.R2.LY,abs @470nm w/DMSO,4.12194
+S4.C2.R2.P1,promoter 1,16.0
+S4.C2.R2.P2,promoter 2,6.0
+S4.C2.R2.P3,promoter 3,4.0
+S4.C2.R2.LY,abs @470nm w/DMSO,3.09547
+S4.C2.R2.P1,promoter 1,16.0
+S4.C2.R2.P2,promoter 2,7.0
+S4.C2.R2.P3,promoter 3,2.0
+S4.C2.R2.LY,abs @470nm w/DMSO,5.54487
+S4.C2.R2.P1,promoter 1,16.0
+S4.C2.R2.P2,promoter 2,7.0
+S4.C2.R2.P3,promoter 3,5.0
+S4.C2.R2.LY,abs @470nm w/DMSO,3.2447
+S4.C2.R2.P1,promoter 1,16.0
+S4.C2.R2.P2,promoter 2,9.0
+S4.C2.R2.P3,promoter 3,4.0
+S4.C2.R2.LY,abs @470nm w/DMSO,4.30832
+S4.C2.R2.P1,promoter 1,16.0
+S4.C2.R2.P2,promoter 2,10.0
+S4.C2.R2.P3,promoter 3,1.0
+S4.C2.R2.LY,abs @470nm w/DMSO,3.4384
+S4.C2.R2.P1,promoter 1,16.0
+S4.C2.R2.P2,promoter 2,10.0
+S4.C2.R2.P3,promoter 3,4.0
+S4.C2.R2.LY,abs @470nm w/DMSO,5.83607
+S4.C2.R2.P1,promoter 1,16.0
+S4.C2.R2.P2,promoter 2,10.0
+S4.C2.R2.P3,promoter 3,17.0
+S4.C2.R2.LY,abs @470nm w/DMSO,2.46781
+S4.C2.R2.P1,promoter 1,16.0
+S4.C2.R2.P2,promoter 2,13.0
+S4.C2.R2.P3,promoter 3,3.0
+S4.C2.R2.LY,abs @470nm w/DMSO,1.58186
+S4.C2.R2.P1,promoter 1,16.0
+S4.C2.R2.P2,promoter 2,13.0
+S4.C2.R2.P3,promoter 3,4.0
+S4.C2.R2.LY,abs @470nm w/DMSO,1.23855
+S4.C2.R2.P1,promoter 1,16.0
+S4.C2.R2.P2,promoter 2,15.0
+S4.C2.R2.P3,promoter 3,2.0
+S4.C2.R2.LY,abs @470nm w/DMSO,2.44467
+S4.C2.R2.P1,promoter 1,16.0
+S4.C2.R2.P2,promoter 2,15.0
+S4.C2.R2.P3,promoter 3,14.0
+S4.C2.R2.LY,abs @470nm w/DMSO,1.98366
+S4.C2.R2.P1,promoter 1,16.0
+S4.C2.R2.P2,promoter 2,18.0
+S4.C2.R2.P3,promoter 3,1.0
+S4.C2.R2.LY,abs @470nm w/DMSO,2.22717
+S4.C2.R2.P1,promoter 1,16.0
+S4.C2.R2.P2,promoter 2,19.0
+S4.C2.R2.P3,promoter 3,16.0
+S4.C2.R2.LY,abs @470nm w/DMSO,3.08838
+S4.C2.R2.P1,promoter 1,17.0
+S4.C2.R2.P2,promoter 2,1.0
+S4.C2.R2.P3,promoter 3,16.0
+S4.C2.R2.LY,abs @470nm w/DMSO,3.50365
+S4.C2.R2.P1,promoter 1,17.0
+S4.C2.R2.P2,promoter 2,3.0
+S4.C2.R2.P3,promoter 3,18.0
+S4.C2.R2.LY,abs @470nm w/DMSO,4.69675
+S4.C2.R2.P1,promoter 1,17.0
+S4.C2.R2.P2,promoter 2,9.0
+S4.C2.R2.P3,promoter 3,18.0
+S4.C2.R2.LY,abs @470nm w/DMSO,0.90974
+S4.C2.R2.P1,promoter 1,17.0
+S4.C2.R2.P2,promoter 2,11.0
+S4.C2.R2.P3,promoter 3,16.0
+S4.C2.R2.LY,abs @470nm w/DMSO,4.14521
+S4.C2.R2.P1,promoter 1,17.0
+S4.C2.R2.P2,promoter 2,14.0
+S4.C2.R2.P3,promoter 3,18.0
+S4.C2.R2.LY,abs @470nm w/DMSO,1.97278
+S4.C2.R2.P1,promoter 1,17.0
+S4.C2.R2.P2,promoter 2,14.0
+S4.C2.R2.P3,promoter 3,20.0
+S4.C2.R2.LY,abs @470nm w/DMSO,0.54956
+S4.C2.R2.P1,promoter 1,17.0
+S4.C2.R2.P2,promoter 2,17.0
+S4.C2.R2.P3,promoter 3,14.0
+S4.C2.R2.LY,abs @470nm w/DMSO,3.02727
+S4.C2.R2.P1,promoter 1,17.0
+S4.C2.R2.P2,promoter 2,18.0
+S4.C2.R2.P3,promoter 3,16.0
+S4.C2.R2.LY,abs @470nm w/DMSO,1.72013
+S4.C2.R2.P1,promoter 1,19.0
+S4.C2.R2.P2,promoter 2,3.0
+S4.C2.R2.P3,promoter 3,13.0
+S4.C2.R2.LY,abs @470nm w/DMSO,1.78174
+S4.C2.R2.P1,promoter 1,19.0
+S4.C2.R2.P2,promoter 2,3.0
+S4.C2.R2.P3,promoter 3,20.0
+S4.C2.R2.LY,abs @470nm w/DMSO,0.5962
+S4.C2.R2.P1,promoter 1,20.0
+S4.C2.R2.P2,promoter 2,2.0
+S4.C2.R2.P3,promoter 3,3.0
+S4.C2.R2.LY,abs @470nm w/DMSO,2.36119
+S4.C2.R2.P1,promoter 1,20.0
+S4.C2.R2.P2,promoter 2,6.0
+S4.C2.R2.P3,promoter 3,3.0
+S4.C2.R2.LY,abs @470nm w/DMSO,2.10536
+S4.C2.R2.P1,promoter 1,20.0
+S4.C2.R2.P2,promoter 2,8.0
+S4.C2.R2.P3,promoter 3,7.0
+S4.C2.R2.LY,abs @470nm w/DMSO,5.32976
+S4.C2.R2.P1,promoter 1,20.0
+S4.C2.R2.P2,promoter 2,9.0
+S4.C2.R2.P3,promoter 3,2.0
+S4.C2.R2.LY,abs @470nm w/DMSO,3.64685
+S4.C2.R2.P1,promoter 1,20.0
+S4.C2.R2.P2,promoter 2,11.0
+S4.C2.R2.P3,promoter 3,3.0
+S4.C2.R2.LY,abs @470nm w/DMSO,1.88984
+S4.C2.R2.P1,promoter 1,20.0
+S4.C2.R2.P2,promoter 2,15.0
+S4.C2.R2.P3,promoter 3,4.0
+S4.C2.R2.LY,abs @470nm w/DMSO,1.49495
+S4.C2.R2.P1,promoter 1,20.0
+S4.C2.R2.P2,promoter 2,19.0
+S4.C2.R2.P3,promoter 3,3.0
+S4.C2.R2.LY,abs @470nm w/DMSO,1.2087
+S1.C3.R3.P1,promoter 1,4.0
+S1.C3.R3.P2,promoter 2,3.0
+S1.C3.R3.P3,promoter 3,14.0
+S1.C3.R3.LY,abs @470nm w/DMSO,3.09846
+S1.C3.R3.P1,promoter 1,6.0
+S1.C3.R3.P2,promoter 2,1.0
+S1.C3.R3.P3,promoter 3,17.0
+S1.C3.R3.LY,abs @470nm w/DMSO,1.64662
+S1.C3.R3.P1,promoter 1,9.0
+S1.C3.R3.P2,promoter 2,10.0
+S1.C3.R3.P3,promoter 3,3.0
+S1.C3.R3.LY,abs @470nm w/DMSO,5.06791
+S1.C3.R3.P1,promoter 1,10.0
+S1.C3.R3.P2,promoter 2,3.0
+S1.C3.R3.P3,promoter 3,15.0
+S1.C3.R3.LY,abs @470nm w/DMSO,3.56068
+S1.C3.R3.P1,promoter 1,10.0
+S1.C3.R3.P2,promoter 2,6.0
+S1.C3.R3.P3,promoter 3,12.0
+S1.C3.R3.LY,abs @470nm w/DMSO,8.65595
+S1.C3.R3.P1,promoter 1,11.0
+S1.C3.R3.P2,promoter 2,10.0
+S1.C3.R3.P3,promoter 3,3.0
+S1.C3.R3.LY,abs @470nm w/DMSO,2.04252
+S1.C3.R3.P1,promoter 1,12.0
+S1.C3.R3.P2,promoter 2,3.0
+S1.C3.R3.P3,promoter 3,11.0
+S1.C3.R3.LY,abs @470nm w/DMSO,3.62651
+S1.C3.R3.P1,promoter 1,12.0
+S1.C3.R3.P2,promoter 2,3.0
+S1.C3.R3.P3,promoter 3,4.0
+S1.C3.R3.LY,abs @470nm w/DMSO,2.93086
+S1.C3.R3.P1,promoter 1,12.0
+S1.C3.R3.P2,promoter 2,12.0
+S1.C3.R3.P3,promoter 3,12.0
+S1.C3.R3.LY,abs @470nm w/DMSO,2.42588
+S1.C3.R3.P1,promoter 1,14.0
+S1.C3.R3.P2,promoter 2,3.0
+S1.C3.R3.P3,promoter 3,15.0
+S1.C3.R3.LY,abs @470nm w/DMSO,4.21687
+S1.C3.R3.P1,promoter 1,15.0
+S1.C3.R3.P2,promoter 2,6.0
+S1.C3.R3.P3,promoter 3,2.0
+S1.C3.R3.LY,abs @470nm w/DMSO,2.61767
+S1.C3.R3.P1,promoter 1,15.0
+S1.C3.R3.P2,promoter 2,10.0
+S1.C3.R3.P3,promoter 3,5.0
+S1.C3.R3.LY,abs @470nm w/DMSO,2.808
+S1.C3.R3.P1,promoter 1,16.0
+S1.C3.R3.P2,promoter 2,2.0
+S1.C3.R3.P3,promoter 3,2.0
+S1.C3.R3.LY,abs @470nm w/DMSO,4.87156
+S1.C3.R3.P1,promoter 1,16.0
+S1.C3.R3.P2,promoter 2,2.0
+S1.C3.R3.P3,promoter 3,12.0
+S1.C3.R3.LY,abs @470nm w/DMSO,7.05038
+S1.C3.R3.P1,promoter 1,16.0
+S1.C3.R3.P2,promoter 2,3.0
+S1.C3.R3.P3,promoter 3,14.0
+S1.C3.R3.LY,abs @470nm w/DMSO,6.21888
+S1.C3.R3.P1,promoter 1,16.0
+S1.C3.R3.P2,promoter 2,4.0
+S1.C3.R3.P3,promoter 3,1.0
+S1.C3.R3.LY,abs @470nm w/DMSO,4.95138
+S1.C3.R3.P1,promoter 1,16.0
+S1.C3.R3.P2,promoter 2,4.0
+S1.C3.R3.P3,promoter 3,2.0
+S1.C3.R3.LY,abs @470nm w/DMSO,2.70967
+S1.C3.R3.P1,promoter 1,16.0
+S1.C3.R3.P2,promoter 2,5.0
+S1.C3.R3.P3,promoter 3,1.0
+S1.C3.R3.LY,abs @470nm w/DMSO,8.71958
+S1.C3.R3.P1,promoter 1,16.0
+S1.C3.R3.P2,promoter 2,5.0
+S1.C3.R3.P3,promoter 3,3.0
+S1.C3.R3.LY,abs @470nm w/DMSO,3.86568
+S1.C3.R3.P1,promoter 1,16.0
+S1.C3.R3.P2,promoter 2,6.0
+S1.C3.R3.P3,promoter 3,2.0
+S1.C3.R3.LY,abs @470nm w/DMSO,8.51768
+S1.C3.R3.P1,promoter 1,16.0
+S1.C3.R3.P2,promoter 2,7.0
+S1.C3.R3.P3,promoter 3,1.0
+S1.C3.R3.LY,abs @470nm w/DMSO,1.70345
+S1.C3.R3.P1,promoter 1,16.0
+S1.C3.R3.P2,promoter 2,7.0
+S1.C3.R3.P3,promoter 3,3.0
+S1.C3.R3.LY,abs @470nm w/DMSO,1.1559
+S1.C3.R3.P1,promoter 1,16.0
+S1.C3.R3.P2,promoter 2,7.0
+S1.C3.R3.P3,promoter 3,14.0
+S1.C3.R3.LY,abs @470nm w/DMSO,3.94978
+S1.C3.R3.P1,promoter 1,16.0
+S1.C3.R3.P2,promoter 2,8.0
+S1.C3.R3.P3,promoter 3,1.0
+S1.C3.R3.LY,abs @470nm w/DMSO,1.60723
+S1.C3.R3.P1,promoter 1,16.0
+S1.C3.R3.P2,promoter 2,8.0
+S1.C3.R3.P3,promoter 3,2.0
+S1.C3.R3.LY,abs @470nm w/DMSO,2.31541
+S1.C3.R3.P1,promoter 1,16.0
+S1.C3.R3.P2,promoter 2,8.0
+S1.C3.R3.P3,promoter 3,3.0
+S1.C3.R3.LY,abs @470nm w/DMSO,3.00045
+S1.C3.R3.P1,promoter 1,16.0
+S1.C3.R3.P2,promoter 2,8.0
+S1.C3.R3.P3,promoter 3,13.0
+S1.C3.R3.LY,abs @470nm w/DMSO,3.93628
+S1.C3.R3.P1,promoter 1,16.0
+S1.C3.R3.P2,promoter 2,9.0
+S1.C3.R3.P3,promoter 3,12.0
+S1.C3.R3.LY,abs @470nm w/DMSO,3.59193
+S1.C3.R3.P1,promoter 1,16.0
+S1.C3.R3.P2,promoter 2,10.0
+S1.C3.R3.P3,promoter 3,3.0
+S1.C3.R3.LY,abs @470nm w/DMSO,2.87549
+S1.C3.R3.P1,promoter 1,16.0
+S1.C3.R3.P2,promoter 2,10.0
+S1.C3.R3.P3,promoter 3,9.0
+S1.C3.R3.LY,abs @470nm w/DMSO,3.92321
+S1.C3.R3.P1,promoter 1,17.0
+S1.C3.R3.P2,promoter 2,5.0
+S1.C3.R3.P3,promoter 3,9.0
+S1.C3.R3.LY,abs @470nm w/DMSO,3.79393
+S1.C3.R3.P1,promoter 1,17.0
+S1.C3.R3.P2,promoter 2,6.0
+S1.C3.R3.P3,promoter 3,1.0
+S1.C3.R3.LY,abs @470nm w/DMSO,2.85787
+S1.C3.R3.P1,promoter 1,17.0
+S1.C3.R3.P2,promoter 2,8.0
+S1.C3.R3.P3,promoter 3,18.0
+S1.C3.R3.LY,abs @470nm w/DMSO,3.62218
+S1.C3.R3.P1,promoter 1,17.0
+S1.C3.R3.P2,promoter 2,9.0
+S1.C3.R3.P3,promoter 3,3.0
+S1.C3.R3.LY,abs @470nm w/DMSO,1.42044
+S1.C3.R3.P1,promoter 1,17.0
+S1.C3.R3.P2,promoter 2,10.0
+S1.C3.R3.P3,promoter 3,3.0
+S1.C3.R3.LY,abs @470nm w/DMSO,2.77818
+S1.C3.R3.P1,promoter 1,17.0
+S1.C3.R3.P2,promoter 2,10.0
+S1.C3.R3.P3,promoter 3,4.0
+S1.C3.R3.LY,abs @470nm w/DMSO,3.32709
+S1.C3.R3.P1,promoter 1,17.0
+S1.C3.R3.P2,promoter 2,10.0
+S1.C3.R3.P3,promoter 3,5.0
+S1.C3.R3.LY,abs @470nm w/DMSO,2.9936
+S1.C3.R3.P1,promoter 1,17.0
+S1.C3.R3.P2,promoter 2,10.0
+S1.C3.R3.P3,promoter 3,6.0
+S1.C3.R3.LY,abs @470nm w/DMSO,1.76945
+S1.C3.R3.P1,promoter 1,18.0
+S1.C3.R3.P2,promoter 2,3.0
+S1.C3.R3.P3,promoter 3,14.0
+S1.C3.R3.LY,abs @470nm w/DMSO,2.16986
+S1.C3.R3.P1,promoter 1,18.0
+S1.C3.R3.P2,promoter 2,3.0
+S1.C3.R3.P3,promoter 3,10.0
+S1.C3.R3.LY,abs @470nm w/DMSO,5.66598
+S1.C3.R3.P1,promoter 1,18.0
+S1.C3.R3.P2,promoter 2,3.0
+S1.C3.R3.P3,promoter 3,15.0
+S1.C3.R3.LY,abs @470nm w/DMSO,7.52012
+S1.C3.R3.P1,promoter 1,18.0
+S1.C3.R3.P2,promoter 2,8.0
+S1.C3.R3.P3,promoter 3,3.0
+S1.C3.R3.LY,abs @470nm w/DMSO,2.076
+S1.C3.R3.P1,promoter 1,18.0
+S1.C3.R3.P2,promoter 2,10.0
+S1.C3.R3.P3,promoter 3,2.0
+S1.C3.R3.LY,abs @470nm w/DMSO,9.17362
+S1.C3.R3.P1,promoter 1,19.0
+S1.C3.R3.P2,promoter 2,10.0
+S1.C3.R3.P3,promoter 3,3.0
+S1.C3.R3.LY,abs @470nm w/DMSO,1.17213
+S1.C3.R3.P1,promoter 1,20.0
+S1.C3.R3.P2,promoter 2,11.0
+S1.C3.R3.P3,promoter 3,12.0
+S1.C3.R3.LY,abs @470nm w/DMSO,6.63148
+S2.C3.R3.P1,promoter 1,4.0
+S2.C3.R3.P2,promoter 2,3.0
+S2.C3.R3.P3,promoter 3,14.0
+S2.C3.R3.LY,abs @470nm w/DMSO,3.02883
+S2.C3.R3.P1,promoter 1,6.0
+S2.C3.R3.P2,promoter 2,1.0
+S2.C3.R3.P3,promoter 3,17.0
+S2.C3.R3.LY,abs @470nm w/DMSO,1.60646
+S2.C3.R3.P1,promoter 1,9.0
+S2.C3.R3.P2,promoter 2,10.0
+S2.C3.R3.P3,promoter 3,3.0
+S2.C3.R3.LY,abs @470nm w/DMSO,4.84014
+S2.C3.R3.P1,promoter 1,10.0
+S2.C3.R3.P2,promoter 2,3.0
+S2.C3.R3.P3,promoter 3,15.0
+S2.C3.R3.LY,abs @470nm w/DMSO,3.51928
+S2.C3.R3.P1,promoter 1,10.0
+S2.C3.R3.P2,promoter 2,6.0
+S2.C3.R3.P3,promoter 3,12.0
+S2.C3.R3.LY,abs @470nm w/DMSO,9.05855
+S2.C3.R3.P1,promoter 1,11.0
+S2.C3.R3.P2,promoter 2,10.0
+S2.C3.R3.P3,promoter 3,3.0
+S2.C3.R3.LY,abs @470nm w/DMSO,1.88187
+S2.C3.R3.P1,promoter 1,12.0
+S2.C3.R3.P2,promoter 2,3.0
+S2.C3.R3.P3,promoter 3,11.0
+S2.C3.R3.LY,abs @470nm w/DMSO,3.70893
+S2.C3.R3.P1,promoter 1,12.0
+S2.C3.R3.P2,promoter 2,3.0
+S2.C3.R3.P3,promoter 3,4.0
+S2.C3.R3.LY,abs @470nm w/DMSO,2.89555
+S2.C3.R3.P1,promoter 1,12.0
+S2.C3.R3.P2,promoter 2,12.0
+S2.C3.R3.P3,promoter 3,12.0
+S2.C3.R3.LY,abs @470nm w/DMSO,2.20783
+S2.C3.R3.P1,promoter 1,14.0
+S2.C3.R3.P2,promoter 2,3.0
+S2.C3.R3.P3,promoter 3,15.0
+S2.C3.R3.LY,abs @470nm w/DMSO,3.83352
+S2.C3.R3.P1,promoter 1,15.0
+S2.C3.R3.P2,promoter 2,6.0
+S2.C3.R3.P3,promoter 3,2.0
+S2.C3.R3.LY,abs @470nm w/DMSO,2.64776
+S2.C3.R3.P1,promoter 1,15.0
+S2.C3.R3.P2,promoter 2,10.0
+S2.C3.R3.P3,promoter 3,5.0
+S2.C3.R3.LY,abs @470nm w/DMSO,3.04771
+S2.C3.R3.P1,promoter 1,16.0
+S2.C3.R3.P2,promoter 2,2.0
+S2.C3.R3.P3,promoter 3,2.0
+S2.C3.R3.LY,abs @470nm w/DMSO,5.09814
+S2.C3.R3.P1,promoter 1,16.0
+S2.C3.R3.P2,promoter 2,2.0
+S2.C3.R3.P3,promoter 3,12.0
+S2.C3.R3.LY,abs @470nm w/DMSO,7.05038
+S2.C3.R3.P1,promoter 1,16.0
+S2.C3.R3.P2,promoter 2,3.0
+S2.C3.R3.P3,promoter 3,14.0
+S2.C3.R3.LY,abs @470nm w/DMSO,6.52224
+S2.C3.R3.P1,promoter 1,16.0
+S2.C3.R3.P2,promoter 2,4.0
+S2.C3.R3.P3,promoter 3,1.0
+S2.C3.R3.LY,abs @470nm w/DMSO,5.12821
+S2.C3.R3.P1,promoter 1,16.0
+S2.C3.R3.P2,promoter 2,4.0
+S2.C3.R3.P3,promoter 3,2.0
+S2.C3.R3.LY,abs @470nm w/DMSO,2.49655
+S2.C3.R3.P1,promoter 1,16.0
+S2.C3.R3.P2,promoter 2,5.0
+S2.C3.R3.P3,promoter 3,1.0
+S2.C3.R3.LY,abs @470nm w/DMSO,8.92475
+S2.C3.R3.P1,promoter 1,16.0
+S2.C3.R3.P2,promoter 2,5.0
+S2.C3.R3.P3,promoter 3,3.0
+S2.C3.R3.LY,abs @470nm w/DMSO,4.2952
+S2.C3.R3.P1,promoter 1,16.0
+S2.C3.R3.P2,promoter 2,6.0
+S2.C3.R3.P3,promoter 3,2.0
+S2.C3.R3.LY,abs @470nm w/DMSO,9.14862
+S2.C3.R3.P1,promoter 1,16.0
+S2.C3.R3.P2,promoter 2,7.0
+S2.C3.R3.P3,promoter 3,1.0
+S2.C3.R3.LY,abs @470nm w/DMSO,1.64403
+S2.C3.R3.P1,promoter 1,16.0
+S2.C3.R3.P2,promoter 2,7.0
+S2.C3.R3.P3,promoter 3,3.0
+S2.C3.R3.LY,abs @470nm w/DMSO,1.1277
+S2.C3.R3.P1,promoter 1,16.0
+S2.C3.R3.P2,promoter 2,7.0
+S2.C3.R3.P3,promoter 3,14.0
+S2.C3.R3.LY,abs @470nm w/DMSO,3.81664
+S2.C3.R3.P1,promoter 1,16.0
+S2.C3.R3.P2,promoter 2,8.0
+S2.C3.R3.P3,promoter 3,1.0
+S2.C3.R3.LY,abs @470nm w/DMSO,1.68759
+S2.C3.R3.P1,promoter 1,16.0
+S2.C3.R3.P2,promoter 2,8.0
+S2.C3.R3.P3,promoter 3,2.0
+S2.C3.R3.LY,abs @470nm w/DMSO,2.25961
+S2.C3.R3.P1,promoter 1,16.0
+S2.C3.R3.P2,promoter 2,8.0
+S2.C3.R3.P3,promoter 3,3.0
+S2.C3.R3.LY,abs @470nm w/DMSO,3.06942
+S2.C3.R3.P1,promoter 1,16.0
+S2.C3.R3.P2,promoter 2,8.0
+S2.C3.R3.P3,promoter 3,13.0
+S2.C3.R3.LY,abs @470nm w/DMSO,4.03469
+S2.C3.R3.P1,promoter 1,16.0
+S2.C3.R3.P2,promoter 2,9.0
+S2.C3.R3.P3,promoter 3,12.0
+S2.C3.R3.LY,abs @470nm w/DMSO,3.39238
+S2.C3.R3.P1,promoter 1,16.0
+S2.C3.R3.P2,promoter 2,10.0
+S2.C3.R3.P3,promoter 3,3.0
+S2.C3.R3.LY,abs @470nm w/DMSO,3.01575
+S2.C3.R3.P1,promoter 1,16.0
+S2.C3.R3.P2,promoter 2,10.0
+S2.C3.R3.P3,promoter 3,9.0
+S2.C3.R3.LY,abs @470nm w/DMSO,3.8309
+S2.C3.R3.P1,promoter 1,17.0
+S2.C3.R3.P2,promoter 2,5.0
+S2.C3.R3.P3,promoter 3,9.0
+S2.C3.R3.LY,abs @470nm w/DMSO,3.4567
+S2.C3.R3.P1,promoter 1,17.0
+S2.C3.R3.P2,promoter 2,6.0
+S2.C3.R3.P3,promoter 3,1.0
+S2.C3.R3.LY,abs @470nm w/DMSO,2.92591
+S2.C3.R3.P1,promoter 1,17.0
+S2.C3.R3.P2,promoter 2,8.0
+S2.C3.R3.P3,promoter 3,18.0
+S2.C3.R3.LY,abs @470nm w/DMSO,3.88091
+S2.C3.R3.P1,promoter 1,17.0
+S2.C3.R3.P2,promoter 2,9.0
+S2.C3.R3.P3,promoter 3,3.0
+S2.C3.R3.LY,abs @470nm w/DMSO,1.4724
+S2.C3.R3.P1,promoter 1,17.0
+S2.C3.R3.P2,promoter 2,10.0
+S2.C3.R3.P3,promoter 3,3.0
+S2.C3.R3.LY,abs @470nm w/DMSO,2.50036
+S2.C3.R3.P1,promoter 1,17.0
+S2.C3.R3.P2,promoter 2,10.0
+S2.C3.R3.P3,promoter 3,4.0
+S2.C3.R3.LY,abs @470nm w/DMSO,3.28928
+S2.C3.R3.P1,promoter 1,17.0
+S2.C3.R3.P2,promoter 2,10.0
+S2.C3.R3.P3,promoter 3,5.0
+S2.C3.R3.LY,abs @470nm w/DMSO,3.06573
+S2.C3.R3.P1,promoter 1,17.0
+S2.C3.R3.P2,promoter 2,10.0
+S2.C3.R3.P3,promoter 3,6.0
+S2.C3.R3.LY,abs @470nm w/DMSO,1.92428
+S2.C3.R3.P1,promoter 1,18.0
+S2.C3.R3.P2,promoter 2,3.0
+S2.C3.R3.P3,promoter 3,14.0
+S2.C3.R3.LY,abs @470nm w/DMSO,2.38685
+S2.C3.R3.P1,promoter 1,18.0
+S2.C3.R3.P2,promoter 2,3.0
+S2.C3.R3.P3,promoter 3,10.0
+S2.C3.R3.LY,abs @470nm w/DMSO,6.23257
+S2.C3.R3.P1,promoter 1,18.0
+S2.C3.R3.P2,promoter 2,3.0
+S2.C3.R3.P3,promoter 3,15.0
+S2.C3.R3.LY,abs @470nm w/DMSO,7.78553
+S2.C3.R3.P1,promoter 1,18.0
+S2.C3.R3.P2,promoter 2,8.0
+S2.C3.R3.P3,promoter 3,3.0
+S2.C3.R3.LY,abs @470nm w/DMSO,2.02536
+S2.C3.R3.P1,promoter 1,18.0
+S2.C3.R3.P2,promoter 2,10.0
+S2.C3.R3.P3,promoter 3,2.0
+S2.C3.R3.LY,abs @470nm w/DMSO,8.85361
+S2.C3.R3.P1,promoter 1,19.0
+S2.C3.R3.P2,promoter 2,10.0
+S2.C3.R3.P3,promoter 3,3.0
+S2.C3.R3.LY,abs @470nm w/DMSO,1.15766
+S2.C3.R3.P1,promoter 1,20.0
+S2.C3.R3.P2,promoter 2,11.0
+S2.C3.R3.P3,promoter 3,12.0
+S2.C3.R3.LY,abs @470nm w/DMSO,5.78491
+S3.C3.R3.P1,promoter 1,4.0
+S3.C3.R3.P2,promoter 2,3.0
+S3.C3.R3.P3,promoter 3,14.0
+S3.C3.R3.LY,abs @470nm w/DMSO,3.02883
+S3.C3.R3.P1,promoter 1,6.0
+S3.C3.R3.P2,promoter 2,1.0
+S3.C3.R3.P3,promoter 3,17.0
+S3.C3.R3.LY,abs @470nm w/DMSO,1.70686
+S3.C3.R3.P1,promoter 1,9.0
+S3.C3.R3.P2,promoter 2,10.0
+S3.C3.R3.P3,promoter 3,3.0
+S3.C3.R3.LY,abs @470nm w/DMSO,4.72626
+S3.C3.R3.P1,promoter 1,10.0
+S3.C3.R3.P2,promoter 2,3.0
+S3.C3.R3.P3,promoter 3,15.0
+S3.C3.R3.LY,abs @470nm w/DMSO,3.60208
+S3.C3.R3.P1,promoter 1,10.0
+S3.C3.R3.P2,promoter 2,6.0
+S3.C3.R3.P3,promoter 3,12.0
+S3.C3.R3.LY,abs @470nm w/DMSO,8.1527
+S3.C3.R3.P1,promoter 1,11.0
+S3.C3.R3.P2,promoter 2,10.0
+S3.C3.R3.P3,promoter 3,3.0
+S3.C3.R3.LY,abs @470nm w/DMSO,1.83597
+S3.C3.R3.P1,promoter 1,12.0
+S3.C3.R3.P2,promoter 2,3.0
+S3.C3.R3.P3,promoter 3,11.0
+S3.C3.R3.LY,abs @470nm w/DMSO,3.42046
+S3.C3.R3.P1,promoter 1,12.0
+S3.C3.R3.P2,promoter 2,3.0
+S3.C3.R3.P3,promoter 3,4.0
+S3.C3.R3.LY,abs @470nm w/DMSO,3.10742
+S3.C3.R3.P1,promoter 1,12.0
+S3.C3.R3.P2,promoter 2,12.0
+S3.C3.R3.P3,promoter 3,12.0
+S3.C3.R3.LY,abs @470nm w/DMSO,2.2896
+S3.C3.R3.P1,promoter 1,14.0
+S3.C3.R3.P2,promoter 2,3.0
+S3.C3.R3.P3,promoter 3,15.0
+S3.C3.R3.LY,abs @470nm w/DMSO,3.97727
+S3.C3.R3.P1,promoter 1,15.0
+S3.C3.R3.P2,promoter 2,6.0
+S3.C3.R3.P3,promoter 3,2.0
+S3.C3.R3.LY,abs @470nm w/DMSO,2.5274
+S3.C3.R3.P1,promoter 1,15.0
+S3.C3.R3.P2,promoter 2,10.0
+S3.C3.R3.P3,promoter 3,5.0
+S3.C3.R3.LY,abs @470nm w/DMSO,3.01347
+S3.C3.R3.P1,promoter 1,16.0
+S3.C3.R3.P2,promoter 2,2.0
+S3.C3.R3.P3,promoter 3,2.0
+S3.C3.R3.LY,abs @470nm w/DMSO,4.58833
+S3.C3.R3.P1,promoter 1,16.0
+S3.C3.R3.P2,promoter 2,2.0
+S3.C3.R3.P3,promoter 3,12.0
+S3.C3.R3.LY,abs @470nm w/DMSO,6.80154
+S3.C3.R3.P1,promoter 1,16.0
+S3.C3.R3.P2,promoter 2,3.0
+S3.C3.R3.P3,promoter 3,14.0
+S3.C3.R3.LY,abs @470nm w/DMSO,6.4464
+S3.C3.R3.P1,promoter 1,16.0
+S3.C3.R3.P2,promoter 2,4.0
+S3.C3.R3.P3,promoter 3,1.0
+S3.C3.R3.LY,abs @470nm w/DMSO,5.12821
+S3.C3.R3.P1,promoter 1,16.0
+S3.C3.R3.P2,promoter 2,4.0
+S3.C3.R3.P3,promoter 3,2.0
+S3.C3.R3.LY,abs @470nm w/DMSO,2.58788
+S3.C3.R3.P1,promoter 1,16.0
+S3.C3.R3.P2,promoter 2,5.0
+S3.C3.R3.P3,promoter 3,1.0
+S3.C3.R3.LY,abs @470nm w/DMSO,8.82217
+S3.C3.R3.P1,promoter 1,16.0
+S3.C3.R3.P2,promoter 2,5.0
+S3.C3.R3.P3,promoter 3,3.0
+S3.C3.R3.LY,abs @470nm w/DMSO,4.2952
+S3.C3.R3.P1,promoter 1,16.0
+S3.C3.R3.P2,promoter 2,6.0
+S3.C3.R3.P3,promoter 3,2.0
+S3.C3.R3.LY,abs @470nm w/DMSO,8.62283
+S3.C3.R3.P1,promoter 1,16.0
+S3.C3.R3.P2,promoter 2,7.0
+S3.C3.R3.P3,promoter 3,1.0
+S3.C3.R3.LY,abs @470nm w/DMSO,1.66384
+S3.C3.R3.P1,promoter 1,16.0
+S3.C3.R3.P2,promoter 2,7.0
+S3.C3.R3.P3,promoter 3,3.0
+S3.C3.R3.LY,abs @470nm w/DMSO,1.1559
+S3.C3.R3.P1,promoter 1,16.0
+S3.C3.R3.P2,promoter 2,7.0
+S3.C3.R3.P3,promoter 3,14.0
+S3.C3.R3.LY,abs @470nm w/DMSO,3.55036
+S3.C3.R3.P1,promoter 1,16.0
+S3.C3.R3.P2,promoter 2,8.0
+S3.C3.R3.P3,promoter 3,1.0
+S3.C3.R3.LY,abs @470nm w/DMSO,1.74786
+S3.C3.R3.P1,promoter 1,16.0
+S3.C3.R3.P2,promoter 2,8.0
+S3.C3.R3.P3,promoter 3,2.0
+S3.C3.R3.LY,abs @470nm w/DMSO,2.42699
+S3.C3.R3.P1,promoter 1,16.0
+S3.C3.R3.P2,promoter 2,8.0
+S3.C3.R3.P3,promoter 3,3.0
+S3.C3.R3.LY,abs @470nm w/DMSO,2.75903
+S3.C3.R3.P1,promoter 1,16.0
+S3.C3.R3.P2,promoter 2,8.0
+S3.C3.R3.P3,promoter 3,13.0
+S3.C3.R3.LY,abs @470nm w/DMSO,4.42831
+S3.C3.R3.P1,promoter 1,16.0
+S3.C3.R3.P2,promoter 2,9.0
+S3.C3.R3.P3,promoter 3,12.0
+S3.C3.R3.LY,abs @470nm w/DMSO,3.51211
+S3.C3.R3.P1,promoter 1,16.0
+S3.C3.R3.P2,promoter 2,10.0
+S3.C3.R3.P3,promoter 3,3.0
+S3.C3.R3.LY,abs @470nm w/DMSO,2.84042
+S3.C3.R3.P1,promoter 1,16.0
+S3.C3.R3.P2,promoter 2,10.0
+S3.C3.R3.P3,promoter 3,9.0
+S3.C3.R3.LY,abs @470nm w/DMSO,4.15398
+S3.C3.R3.P1,promoter 1,17.0
+S3.C3.R3.P2,promoter 2,5.0
+S3.C3.R3.P3,promoter 3,9.0
+S3.C3.R3.LY,abs @470nm w/DMSO,3.79393
+S3.C3.R3.P1,promoter 1,17.0
+S3.C3.R3.P2,promoter 2,6.0
+S3.C3.R3.P3,promoter 3,1.0
+S3.C3.R3.LY,abs @470nm w/DMSO,2.85787
+S3.C3.R3.P1,promoter 1,17.0
+S3.C3.R3.P2,promoter 2,8.0
+S3.C3.R3.P3,promoter 3,18.0
+S3.C3.R3.LY,abs @470nm w/DMSO,3.57906
+S3.C3.R3.P1,promoter 1,17.0
+S3.C3.R3.P2,promoter 2,9.0
+S3.C3.R3.P3,promoter 3,3.0
+S3.C3.R3.LY,abs @470nm w/DMSO,1.48973
+S3.C3.R3.P1,promoter 1,17.0
+S3.C3.R3.P2,promoter 2,10.0
+S3.C3.R3.P3,promoter 3,3.0
+S3.C3.R3.LY,abs @470nm w/DMSO,2.50036
+S3.C3.R3.P1,promoter 1,17.0
+S3.C3.R3.P2,promoter 2,10.0
+S3.C3.R3.P3,promoter 3,4.0
+S3.C3.R3.LY,abs @470nm w/DMSO,3.4027
+S3.C3.R3.P1,promoter 1,17.0
+S3.C3.R3.P2,promoter 2,10.0
+S3.C3.R3.P3,promoter 3,5.0
+S3.C3.R3.LY,abs @470nm w/DMSO,2.95753
+S3.C3.R3.P1,promoter 1,17.0
+S3.C3.R3.P2,promoter 2,10.0
+S3.C3.R3.P3,promoter 3,6.0
+S3.C3.R3.LY,abs @470nm w/DMSO,1.76945
+S3.C3.R3.P1,promoter 1,18.0
+S3.C3.R3.P2,promoter 2,3.0
+S3.C3.R3.P3,promoter 3,14.0
+S3.C3.R3.LY,abs @470nm w/DMSO,2.27836
+S3.C3.R3.P1,promoter 1,18.0
+S3.C3.R3.P2,promoter 2,3.0
+S3.C3.R3.P3,promoter 3,10.0
+S3.C3.R3.LY,abs @470nm w/DMSO,5.7368
+S3.C3.R3.P1,promoter 1,18.0
+S3.C3.R3.P2,promoter 2,3.0
+S3.C3.R3.P3,promoter 3,15.0
+S3.C3.R3.LY,abs @470nm w/DMSO,7.69706
+S3.C3.R3.P1,promoter 1,18.0
+S3.C3.R3.P2,promoter 2,8.0
+S3.C3.R3.P3,promoter 3,3.0
+S3.C3.R3.LY,abs @470nm w/DMSO,2.25322
+S3.C3.R3.P1,promoter 1,18.0
+S3.C3.R3.P2,promoter 2,10.0
+S3.C3.R3.P3,promoter 3,2.0
+S3.C3.R3.LY,abs @470nm w/DMSO,8.96028
+S3.C3.R3.P1,promoter 1,19.0
+S3.C3.R3.P2,promoter 2,10.0
+S3.C3.R3.P3,promoter 3,3.0
+S3.C3.R3.LY,abs @470nm w/DMSO,1.1866
+S3.C3.R3.P1,promoter 1,20.0
+S3.C3.R3.P2,promoter 2,11.0
+S3.C3.R3.P3,promoter 3,12.0
+S3.C3.R3.LY,abs @470nm w/DMSO,5.71436
+S4.C3.R3.P1,promoter 1,4.0
+S4.C3.R3.P2,promoter 2,3.0
+S4.C3.R3.P3,promoter 3,14.0
+S4.C3.R3.LY,abs @470nm w/DMSO,2.68069
+S4.C3.R3.P1,promoter 1,6.0
+S4.C3.R3.P2,promoter 2,1.0
+S4.C3.R3.P3,promoter 3,17.0
+S4.C3.R3.LY,abs @470nm w/DMSO,1.86751
+S4.C3.R3.P1,promoter 1,9.0
+S4.C3.R3.P2,promoter 2,10.0
+S4.C3.R3.P3,promoter 3,3.0
+S4.C3.R3.LY,abs @470nm w/DMSO,4.72626
+S4.C3.R3.P1,promoter 1,10.0
+S4.C3.R3.P2,promoter 2,3.0
+S4.C3.R3.P3,promoter 3,15.0
+S4.C3.R3.LY,abs @470nm w/DMSO,3.39507
+S4.C3.R3.P1,promoter 1,10.0
+S4.C3.R3.P2,promoter 2,6.0
+S4.C3.R3.P3,promoter 3,12.0
+S4.C3.R3.LY,abs @470nm w/DMSO,8.354
+S4.C3.R3.P1,promoter 1,11.0
+S4.C3.R3.P2,promoter 2,10.0
+S4.C3.R3.P3,promoter 3,3.0
+S4.C3.R3.LY,abs @470nm w/DMSO,2.04252
+S4.C3.R3.P1,promoter 1,12.0
+S4.C3.R3.P2,promoter 2,3.0
+S4.C3.R3.P3,promoter 3,11.0
+S4.C3.R3.LY,abs @470nm w/DMSO,3.25562
+S4.C3.R3.P1,promoter 1,12.0
+S4.C3.R3.P2,promoter 2,3.0
+S4.C3.R3.P3,promoter 3,4.0
+S4.C3.R3.LY,abs @470nm w/DMSO,3.07211
+S4.C3.R3.P1,promoter 1,12.0
+S4.C3.R3.P2,promoter 2,12.0
+S4.C3.R3.P3,promoter 3,12.0
+S4.C3.R3.LY,abs @470nm w/DMSO,2.34411
+S4.C3.R3.P1,promoter 1,14.0
+S4.C3.R3.P2,promoter 2,3.0
+S4.C3.R3.P3,promoter 3,15.0
+S4.C3.R3.LY,abs @470nm w/DMSO,4.26479
+S4.C3.R3.P1,promoter 1,15.0
+S4.C3.R3.P2,promoter 2,6.0
+S4.C3.R3.P3,promoter 3,2.0
+S4.C3.R3.LY,abs @470nm w/DMSO,2.43714
+S4.C3.R3.P1,promoter 1,15.0
+S4.C3.R3.P2,promoter 2,10.0
+S4.C3.R3.P3,promoter 3,5.0
+S4.C3.R3.LY,abs @470nm w/DMSO,2.77376
+S4.C3.R3.P1,promoter 1,16.0
+S4.C3.R3.P2,promoter 2,2.0
+S4.C3.R3.P3,promoter 3,2.0
+S4.C3.R3.LY,abs @470nm w/DMSO,4.70162
+S4.C3.R3.P1,promoter 1,16.0
+S4.C3.R3.P2,promoter 2,2.0
+S4.C3.R3.P3,promoter 3,12.0
+S4.C3.R3.LY,abs @470nm w/DMSO,7.29921
+S4.C3.R3.P1,promoter 1,16.0
+S4.C3.R3.P2,promoter 2,3.0
+S4.C3.R3.P3,promoter 3,14.0
+S4.C3.R3.LY,abs @470nm w/DMSO,6.59808
+S4.C3.R3.P1,promoter 1,16.0
+S4.C3.R3.P2,promoter 2,4.0
+S4.C3.R3.P3,promoter 3,1.0
+S4.C3.R3.LY,abs @470nm w/DMSO,4.83349
+S4.C3.R3.P1,promoter 1,16.0
+S4.C3.R3.P2,promoter 2,4.0
+S4.C3.R3.P3,promoter 3,2.0
+S4.C3.R3.LY,abs @470nm w/DMSO,2.55744
+S4.C3.R3.P1,promoter 1,16.0
+S4.C3.R3.P2,promoter 2,5.0
+S4.C3.R3.P3,promoter 3,1.0
+S4.C3.R3.LY,abs @470nm w/DMSO,8.41183
+S4.C3.R3.P1,promoter 1,16.0
+S4.C3.R3.P2,promoter 2,5.0
+S4.C3.R3.P3,promoter 3,3.0
+S4.C3.R3.LY,abs @470nm w/DMSO,3.77023
+S4.C3.R3.P1,promoter 1,16.0
+S4.C3.R3.P2,promoter 2,6.0
+S4.C3.R3.P3,promoter 3,2.0
+S4.C3.R3.LY,abs @470nm w/DMSO,9.46409
+S4.C3.R3.P1,promoter 1,16.0
+S4.C3.R3.P2,promoter 2,7.0
+S4.C3.R3.P3,promoter 3,1.0
+S4.C3.R3.LY,abs @470nm w/DMSO,1.72326
+S4.C3.R3.P1,promoter 1,16.0
+S4.C3.R3.P2,promoter 2,7.0
+S4.C3.R3.P3,promoter 3,3.0
+S4.C3.R3.LY,abs @470nm w/DMSO,1.35324
+S4.C3.R3.P1,promoter 1,16.0
+S4.C3.R3.P2,promoter 2,7.0
+S4.C3.R3.P3,promoter 3,14.0
+S4.C3.R3.LY,abs @470nm w/DMSO,3.77226
+S4.C3.R3.P1,promoter 1,16.0
+S4.C3.R3.P2,promoter 2,8.0
+S4.C3.R3.P3,promoter 3,1.0
+S4.C3.R3.LY,abs @470nm w/DMSO,1.78804
+S4.C3.R3.P1,promoter 1,16.0
+S4.C3.R3.P2,promoter 2,8.0
+S4.C3.R3.P3,promoter 3,2.0
+S4.C3.R3.LY,abs @470nm w/DMSO,2.48279
+S4.C3.R3.P1,promoter 1,16.0
+S4.C3.R3.P2,promoter 2,8.0
+S4.C3.R3.P3,promoter 3,3.0
+S4.C3.R3.LY,abs @470nm w/DMSO,2.89698
+S4.C3.R3.P1,promoter 1,16.0
+S4.C3.R3.P2,promoter 2,8.0
+S4.C3.R3.P3,promoter 3,13.0
+S4.C3.R3.LY,abs @470nm w/DMSO,4.32991
+S4.C3.R3.P1,promoter 1,16.0
+S4.C3.R3.P2,promoter 2,9.0
+S4.C3.R3.P3,promoter 3,12.0
+S4.C3.R3.LY,abs @470nm w/DMSO,3.07309
+S4.C3.R3.P1,promoter 1,16.0
+S4.C3.R3.P2,promoter 2,10.0
+S4.C3.R3.P3,promoter 3,3.0
+S4.C3.R3.LY,abs @470nm w/DMSO,3.19109
+S4.C3.R3.P1,promoter 1,16.0
+S4.C3.R3.P2,promoter 2,10.0
+S4.C3.R3.P3,promoter 3,9.0
+S4.C3.R3.LY,abs @470nm w/DMSO,3.78474
+S4.C3.R3.P1,promoter 1,17.0
+S4.C3.R3.P2,promoter 2,5.0
+S4.C3.R3.P3,promoter 3,9.0
+S4.C3.R3.LY,abs @470nm w/DMSO,3.28808
+S4.C3.R3.P1,promoter 1,17.0
+S4.C3.R3.P2,promoter 2,6.0
+S4.C3.R3.P3,promoter 3,1.0
+S4.C3.R3.LY,abs @470nm w/DMSO,2.92591
+S4.C3.R3.P1,promoter 1,17.0
+S4.C3.R3.P2,promoter 2,8.0
+S4.C3.R3.P3,promoter 3,18.0
+S4.C3.R3.LY,abs @470nm w/DMSO,3.57906
+S4.C3.R3.P1,promoter 1,17.0
+S4.C3.R3.P2,promoter 2,9.0
+S4.C3.R3.P3,promoter 3,3.0
+S4.C3.R3.LY,abs @470nm w/DMSO,1.50705
+S4.C3.R3.P1,promoter 1,17.0
+S4.C3.R3.P2,promoter 2,10.0
+S4.C3.R3.P3,promoter 3,3.0
+S4.C3.R3.LY,abs @470nm w/DMSO,2.71644
+S4.C3.R3.P1,promoter 1,17.0
+S4.C3.R3.P2,promoter 2,10.0
+S4.C3.R3.P3,promoter 3,4.0
+S4.C3.R3.LY,abs @470nm w/DMSO,2.83559
+S4.C3.R3.P1,promoter 1,17.0
+S4.C3.R3.P2,promoter 2,10.0
+S4.C3.R3.P3,promoter 3,5.0
+S4.C3.R3.LY,abs @470nm w/DMSO,3.24607
+S4.C3.R3.P1,promoter 1,17.0
+S4.C3.R3.P2,promoter 2,10.0
+S4.C3.R3.P3,promoter 3,6.0
+S4.C3.R3.LY,abs @470nm w/DMSO,2.05698
+S4.C3.R3.P1,promoter 1,18.0
+S4.C3.R3.P2,promoter 2,3.0
+S4.C3.R3.P3,promoter 3,14.0
+S4.C3.R3.LY,abs @470nm w/DMSO,2.38685
+S4.C3.R3.P1,promoter 1,18.0
+S4.C3.R3.P2,promoter 2,3.0
+S4.C3.R3.P3,promoter 3,10.0
+S4.C3.R3.LY,abs @470nm w/DMSO,6.44505
+S4.C3.R3.P1,promoter 1,18.0
+S4.C3.R3.P2,promoter 2,3.0
+S4.C3.R3.P3,promoter 3,15.0
+S4.C3.R3.LY,abs @470nm w/DMSO,7.07776
+S4.C3.R3.P1,promoter 1,18.0
+S4.C3.R3.P2,promoter 2,8.0
+S4.C3.R3.P3,promoter 3,3.0
+S4.C3.R3.LY,abs @470nm w/DMSO,2.25322
+S4.C3.R3.P1,promoter 1,18.0
+S4.C3.R3.P2,promoter 2,10.0
+S4.C3.R3.P3,promoter 3,2.0
+S4.C3.R3.LY,abs @470nm w/DMSO,9.28029
+S4.C3.R3.P1,promoter 1,19.0
+S4.C3.R3.P2,promoter 2,10.0
+S4.C3.R3.P3,promoter 3,3.0
+S4.C3.R3.LY,abs @470nm w/DMSO,1.40367
+S4.C3.R3.P1,promoter 1,20.0
+S4.C3.R3.P2,promoter 2,11.0
+S4.C3.R3.P3,promoter 3,12.0
+S4.C3.R3.LY,abs @470nm w/DMSO,5.85545
